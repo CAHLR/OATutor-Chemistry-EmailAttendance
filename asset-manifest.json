@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Chemistry-Thermo1/static/css/main.2770c070.css",
-    "main.js": "/OATutor-Chemistry-Thermo1/static/js/main.5952ff45.js",
+    "main.js": "/OATutor-Chemistry-Thermo1/static/js/main.3719f8fa.js",
     "static/js/790.fd05bda3.chunk.js": "/OATutor-Chemistry-Thermo1/static/js/790.fd05bda3.chunk.js",
     "static/js/563.56d4972d.chunk.js": "/OATutor-Chemistry-Thermo1/static/js/563.56d4972d.chunk.js",
     "static/js/546.729d5457.chunk.js": "/OATutor-Chemistry-Thermo1/static/js/546.729d5457.chunk.js",
@@ -12,10 +12,10 @@
     "static/media/Symbola.woff2": "/OATutor-Chemistry-Thermo1/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Chemistry-Thermo1/index.html",
     "main.2770c070.css.map": "/OATutor-Chemistry-Thermo1/static/css/main.2770c070.css.map",
-    "main.5952ff45.js.map": "/OATutor-Chemistry-Thermo1/static/js/main.5952ff45.js.map"
+    "main.3719f8fa.js.map": "/OATutor-Chemistry-Thermo1/static/js/main.3719f8fa.js.map"
   },
   "entrypoints": [
     "static/css/main.2770c070.css",
-    "static/js/main.5952ff45.js"
+    "static/js/main.3719f8fa.js"
   ]
 }
