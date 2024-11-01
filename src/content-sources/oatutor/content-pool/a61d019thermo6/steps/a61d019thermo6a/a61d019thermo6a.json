@@ -8,5 +8,6 @@
     "stepBody": "Compute your answer in kJ to one decimal place.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$-622.5$$"
+    "answerLatex": "$$-622.5$$",
+    "tolerance": 5
 }

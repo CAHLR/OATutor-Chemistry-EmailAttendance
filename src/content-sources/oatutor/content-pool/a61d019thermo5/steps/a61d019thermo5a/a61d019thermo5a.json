@@ -8,5 +8,6 @@
     "stepBody": "Compute your answer in \u00b0C to two decimal places.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$10.44$$"
+    "answerLatex": "$$10.44$$",
+    "tolerance": 2
 }

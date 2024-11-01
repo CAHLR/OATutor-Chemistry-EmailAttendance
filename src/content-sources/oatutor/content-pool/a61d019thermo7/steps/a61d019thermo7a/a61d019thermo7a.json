@@ -8,5 +8,6 @@
     "stepBody": "Consider:\\n\u0394H_f\u00b0 $$NO_2$$ $$=$$ $$33.18$$ $$\\frac{kJ}{mol}$$\\n\u0394H_f\u00b0 $$H_2 O$$ $$=$$ $$-285.83$$ $$\\frac{kJ}{mol}$$\\n\u0394H_f\u00b0 $$N_2 H_4=$$ $$50.63$$ $$\\frac{kJ}{mol}$$\\n\u0394H_f\u00b0 $$O_2$$ $$=$$ $$0$$ $$\\frac{kJ}{mol}$$\\n\\nCompute your answer in kJ to two decimal places.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$-555.93$$"
+    "answerLatex": "$$-555.93$$",
+    "tolerance": 5
 }

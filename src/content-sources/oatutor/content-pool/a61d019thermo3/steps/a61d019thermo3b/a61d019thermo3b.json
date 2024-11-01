@@ -8,5 +8,6 @@
     "stepBody": "Compute your answer in joules to the nearest integer.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$10133$$"
+    "answerLatex": "$$10133$$",
+    "tolerance": 1
 }

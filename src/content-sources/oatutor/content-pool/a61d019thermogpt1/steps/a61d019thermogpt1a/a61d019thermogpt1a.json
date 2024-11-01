@@ -8,5 +8,6 @@
     "stepBody": "Compute your answer to the nearest integer.\\n(Use the conversion factor: $$1$$ L\u00b7atm $$=$$ $$101.3$$ J)",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$1418200$$"
+    "answerLatex": "$$1418200$$",
+    "tolerance": 5
 }

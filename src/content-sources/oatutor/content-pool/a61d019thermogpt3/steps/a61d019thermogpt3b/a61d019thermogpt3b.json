@@ -8,5 +8,6 @@
     "stepBody": "(Recall: w $$=$$ - P \u0394V, and for an ideal gas, P V $$=$$ $$n$$ R T. Use the initial state to determine P.)\\n\\nGive your answer in joules (J) to the nearest integer.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$-7487$$"
+    "answerLatex": "$$-7487$$",
+    "tolerance": 5
 }

@@ -8,5 +8,6 @@
     "stepBody": "Compute your answer to the nearest integer.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$-2188620$$"
+    "answerLatex": "$$-2188620$$",
+    "tolerance": 5
 }

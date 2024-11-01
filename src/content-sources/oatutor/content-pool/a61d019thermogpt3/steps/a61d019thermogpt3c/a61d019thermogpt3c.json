@@ -8,5 +8,6 @@
     "stepBody": "(Given: \u0394U $$=$$ $$n$$ $$c_V$$ \u0394T, where $$c_V$$ $$=$$ $$c_P$$ - R.)\\n\\nGive your answer in joules (J) to the nearest integer.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$11233$$"
+    "answerLatex": "$$11233$$",
+    "tolerance": 5
 }

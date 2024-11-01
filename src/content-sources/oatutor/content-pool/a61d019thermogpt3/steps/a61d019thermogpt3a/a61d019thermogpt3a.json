@@ -8,5 +8,6 @@
     "stepBody": "Give your answer in Kelvin (K) to the nearest integer.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$600$$"
+    "answerLatex": "$$600$$",
+    "tolerance": 5
 }
