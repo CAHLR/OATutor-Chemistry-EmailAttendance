@@ -35,17 +35,6 @@ class Platform extends React.Component {
 
     constructor(props, context) {
         super(props);
-        this.state = {
-            prevCompletedSteps: new Set(),
-        };
-
-        if (this.props.lessonID == '4GDGezBt-rwju-Jeqm9qUMat') {
-            this.orderedProblemIds = ["adffb1aquantum1", "adffb1aquantum2", "adffb1aquantum3", "adffb1awaves1", "adffb1awaves2", "adffb1awaves3", "adffb1aquantum4”, “adffb1abohr1", "adffb1abohr2", "adffb1abohr3", "adffb1ashrodinger1", "adffb1ashrodinger2"];
-        }
-
-        if (this.props.lessonID == '0vJQ81Cm-AA29-k5aaXuYxnA') {
-            this.orderedProblemIds = ["a3c459bquantum1Chat", "a3c459bquantum2Chat", "a3c459bquantum3Chat",  "a3c459bwaves1Chat", "a3c459bwaves2Chat", "a3c459bwaves3Chat", "a3c459bquantum4Chat", "a3c459bbohr1Chat", "a3c459bbohr2Chat", "a3c459bbohr3Chat", "a3c459bshrodinger1Chat", "a3c459bshrodinger2Chat"];
-        }
         
         this.problemIndex = {
             problems: problemPool,
@@ -341,23 +330,91 @@ class Platform extends React.Component {
         seed = Date.now().toString();
         this.setState({ seed: seed });
         this.props.saveProgress();
-    
         const problems = this.problemIndex.problems.filter(
             ({ courseName }) => !courseName.toString().startsWith("!!")
         );
-    
-        let chosenProblem = null;
-    
-        for (let problemId of this.orderedProblemIds) {
-            let problem = problems.find((prob) => prob.id === problemId);
-            if (problem && !this.completedProbs.has(problem.id)) {
-                chosenProblem = problem;
-                break;
+        let chosenProblem;
+
+        console.debug(
+            "Platform.js: sample of available problems",
+            problems.slice(0, 10)
+        );
+
+        for (const problem of problems) {
+            // Calculate the mastery for this problem
+            let probMastery = 1;
+            let isRelevant = false;
+            for (const step of problem.steps) {
+                if (typeof step.knowledgeComponents === "undefined") {
+                    continue;
+                }
+                for (const kc of step.knowledgeComponents) {
+                    if (typeof context.bktParams[kc] === "undefined") {
+                        console.log("BKT Parameter " + kc + " does not exist.");
+                        continue;
+                    }
+                    if (kc in this.lesson.learningObjectives) {
+                        isRelevant = true;
+                    }
+                    // Multiply all the mastery priors
+                    if (!(kc in context.bktParams)) {
+                        console.log("Missing BKT parameter: " + kc);
+                    }
+                    probMastery *= context.bktParams[kc].probMastery;
+                }
+            }
+            if (isRelevant) {
+                problem.probMastery = probMastery;
+            } else {
+                problem.probMastery = null;
             }
         }
-    
+
+        console.debug(
+            `Platform.js: available problems ${problems.length}, completed problems ${this.completedProbs.size}`
+        );
+        chosenProblem = context.heuristic(problems, this.completedProbs);
+        console.debug("Platform.js: chosen problem", chosenProblem);
+
+        const objectives = Object.keys(this.lesson.learningObjectives);
+        console.debug("Platform.js: objectives", objectives);
+        let score = objectives.reduce((x, y) => {
+            return x + context.bktParams[y].probMastery;
+        }, 0);
+        score /= objectives.length;
+        this.displayMastery(score);
+        //console.log(Object.keys(context.bktParams).map((skill) => (context.bktParams[skill].probMastery <= this.lesson.learningObjectives[skill])));
+
+        // There exists a skill that has not yet been mastered (a True)
+        // Note (number <= null) returns false
+        if (
+            !Object.keys(context.bktParams).some(
+                (skill) =>
+                    context.bktParams[skill].probMastery <= MASTERY_THRESHOLD
+            )
+        ) {
+            this.setState({ status: "graduated" });
+            console.log("Graduated");
+            return null;
+        } else if (chosenProblem == null) {
+            console.debug("no problems were chosen");
+            // We have finished all the problems
+            if (this.lesson && !this.lesson.allowRecycle) {
+                // If we do not allow problem recycle then we have exhausted the pool
+                this.setState({ status: "exhausted" });
+                return null;
+            } else {
+                this.completedProbs = new Set();
+                chosenProblem = context.heuristic(
+                    problems,
+                    this.completedProbs
+                );
+            }
+        }
+
         if (chosenProblem) {
             this.setState({ currProblem: chosenProblem, status: "learning" });
+            // console.log("Next problem: ", chosenProblem.id);
             console.debug("problem information", chosenProblem);
             this.context.firebase.startedProblem(
                 chosenProblem.id,
@@ -367,9 +424,7 @@ class Platform extends React.Component {
             );
             return chosenProblem;
         } else {
-            console.debug("No more problems left in the ordered list.");
-            this.setState({ status: "exhausted" });
-            return null;
+            console.debug("still no chosen problem..? must be an error");
         }
     };
 
