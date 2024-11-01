@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a3c459bquantum2Chatb-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Worked Solution",
+        "text": "In a neutral atom, the number of electrons is equal to the number of protons because the positive charge of the protons is balanced by the negative charge of the electrons.\\n\\nSince promethium (Pm) has an atomic number of $$61$$, this means it has $$61$$ protons. Therefore, a neutral promethium atom also has:\\n\\n$$\\text{Number of electrons} = 61$$\\n\\nThus, the number of electrons in a single promethium atom is $$61$$.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]

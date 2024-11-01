@@ -1,0 +1,12 @@
+[
+    {
+        "id": "a3c459bquantum2Chata-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Worked Solution",
+        "text": "To determine the ratio of the number of neutrons to the number of protons in a 145Pm nucleus, follow these steps:\\n\\n$$1$$. $$\\textbf{Find the number of protons}$$: Promethium (Pm) has an atomic number of $$61$$, meaning it has $$61$$ protons.\\n\\n$$2$$. $$\\textbf{Find the number of neutrons}$$: The mass number $$y$$ (in this case, $$145$$) is the sum of the protons and neutrons.\\n\\n$$\\text{Number of neutrons} = \\text{Mass number} - \\text{Number of protons}$$\\n\\n$$\\text{Number of neutrons} = 145 - 61 = 84$$\\n\\n$$3$$. $$\\textbf{Determine the ratio}$$: The ratio of neutrons to protons is:\\n\\n$$\\frac{\\text{Number of neutrons}}{\\text{Number of protons}} = \\frac{84}{61}$$\\n\\nThus, the ratio of the number of neutrons to the number of protons in a 145Pm nucleus is $$\\frac{84}{61}$$.",
+        "variabilization": {},
+        "oer": "",
+        "license": ""
+    }
+]

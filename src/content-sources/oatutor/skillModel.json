@@ -1,68 +1,86 @@
 {
-    "a61d019thermo1a": [
-        "thermo"
+    "adffb1abohr1a": [
+        "quantum"
     ],
-    "a61d019thermo2a": [
-        "thermo"
+    "adffb1abohr1b": [
+        "quantum"
     ],
-    "a61d019thermo3a": [
-        "thermo"
+    "adffb1abohr2a": [
+        "quantum"
     ],
-    "a61d019thermo3b": [
-        "thermo"
+    "adffb1abohr3a": [
+        "quantum"
     ],
-    "a61d019thermo3c": [
-        "thermo"
+    "adffb1aquantum1a": [
+        "quantum"
     ],
-    "a61d019thermo4a": [
-        "thermo"
+    "adffb1aquantum2a": [
+        "quantum"
     ],
-    "a61d019thermo4b": [
-        "thermo"
+    "adffb1aquantum2b": [
+        "quantum"
     ],
-    "a61d019thermo5a": [
-        "thermo"
+    "adffb1aquantum3a": [
+        "quantum"
     ],
-    "a61d019thermo6a": [
-        "thermo"
+    "adffb1aquantum4a": [
+        "quantum"
     ],
-    "a61d019thermo7a": [
-        "thermo"
+    "adffb1ashrodinger1a": [
+        "quantum"
     ],
-    "a61d019thermo8a": [
-        "thermo"
+    "adffb1ashrodinger2a": [
+        "quantum"
     ],
-    "a61d019thermogpt1a": [
-        "thermo"
+    "adffb1awaves1a": [
+        "quantum"
     ],
-    "a61d019thermogpt2a": [
-        "thermo"
+    "adffb1awaves2a": [
+        "quantum"
     ],
-    "a61d019thermogpt3a": [
-        "thermo"
+    "adffb1awaves3a": [
+        "quantum"
     ],
-    "a61d019thermogpt3b": [
-        "thermo"
+    "a3c459bbohr1Chata": [
+        "quantum"
     ],
-    "a61d019thermogpt3c": [
-        "thermo"
+    "a3c459bbohr1Chatb": [
+        "quantum"
     ],
-    "a61d019thermogpt4a": [
-        "thermo"
+    "a3c459bbohr2Chata": [
+        "quantum"
     ],
-    "a61d019thermogpt4b": [
-        "thermo"
+    "a3c459bbohr3Chata": [
+        "quantum"
     ],
-    "a61d019thermogpt5a": [
-        "thermo"
+    "a3c459bquantum1Chata": [
+        "quantum"
     ],
-    "a61d019thermogpt6a": [
-        "thermo"
+    "a3c459bquantum2Chata": [
+        "quantum"
     ],
-    "a61d019thermogpt7a": [
-        "thermo"
+    "a3c459bquantum2Chatb": [
+        "quantum"
     ],
-    "a61d019thermogpt8a": [
-        "thermo"
+    "a3c459bquantum3Chata": [
+        "quantum"
+    ],
+    "a3c459bquantum4Chata": [
+        "quantum"
+    ],
+    "a3c459bshrodinger1Chata": [
+        "quantum"
+    ],
+    "a3c459bshrodinger2Chata": [
+        "quantum"
+    ],
+    "a3c459bwaves1Chata": [
+        "quantum"
+    ],
+    "a3c459bwaves2Chata": [
+        "quantum"
+    ],
+    "a3c459bwaves3Chata": [
+        "quantum"
     ]
 }
