@@ -28,7 +28,7 @@
             "a61d019thermo8a-h2"
         ],
         "title": "Consider Specific Heat Capacities",
-        "text": "Different gases have different specific heat capacities at constant volume $$C_v$$. For ideal gases like $$He$$, $$H_2$$, $$N_2$$, and $$Ne$$, these values differ. Determine the $$C_v$$ values for these gases to understand their heating behavior.",
+        "text": "Different gases have different specific heat capacities at constant volume $$C_v$$. For ideal gases, the specific heat capacity can be calculated based on whether the gas is monatomic or diatomic. For ideal gases, monatomic gases (like $$He$$ and $$Ne$$), typically have $$C_v = \\frac{3}{2}R$$, while diatomic gases (like $$H_2$$ and $$N_2$$) generally have $$C_v = \\frac{5}{2}R$$, where $$R$$ is the gas constant. Using these $$C_v$$ values will help you understand the heat $$Q$$ each gas absorbs under the heating process. Determine the $$C_v$$ values for these gases to understand their heating behavior.",
         "variabilization": {},
         "oer": "",
         "license": ""

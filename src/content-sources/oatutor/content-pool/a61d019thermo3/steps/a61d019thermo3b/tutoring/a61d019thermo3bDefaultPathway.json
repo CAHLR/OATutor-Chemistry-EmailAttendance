@@ -45,7 +45,7 @@
             "a61d019thermo3b-h3"
         ],
         "title": "Convert Pressure to SI Units",
-        "text": "Convert the pressure from atm to pascals (Pa).\\n$$1$$ atm $$=$$ $$101325$$ Pa.",
+        "text": "Convert the pressure from atm to pascals (Pa).\\n$$1$$ atm $$=$$ $$101325$$ Pa. Note that $$1 Pa = 1 kg \\times m^{-1} \\times s^{-2}.$$",
         "variabilization": {},
         "oer": "",
         "license": ""
