@@ -36,7 +36,8 @@
         "text": "What is the change in volume $$V_f-V_i$$ given $$V_i=542L$$ and $$V_f=974L$$?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a61d019thermo1a-h4",
@@ -53,7 +54,8 @@
         "text": "Using the pressure $$P=50.0atm$$ and change in volume $$\u0394V=432L$$, find work done in L$$\\cdot$$atm.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a61d019thermo1a-h5",
@@ -82,6 +84,7 @@
         "text": "Compute the work done using (21600 L$$\\cdot$$atm) $$\\times$$ $$(\\frac{101.3J}{L \\cdot atm}).$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

@@ -36,6 +36,7 @@
         "text": "Using the equation $$\\frac{V_1}{T_1}=\\frac{V_2}{T_2}$$, solve for $$T_2$$ (the final temperature).",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

@@ -48,7 +48,8 @@
         "text": "Find the sum of the standard enthalpies of formation for the products using stoichiometric coefficients: \u0394H\u00b0(products) $$=$$ \u0394$$H_f$$\u00b0(CO\u2082) + 2 $$\\times$$ \u0394$$H_f$$\u00b0(H\u2082O).",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 10
     },
     {
         "id": "a61d019thermogpt7a-h5",
@@ -65,7 +66,8 @@
         "text": "Calculate the sum of the standard enthalpies of formation for the reactants: \u0394H\u00b0(reactants) $$=$$ $$\u0394H_f$$\u00b0(CH\u2084) + 2 $$\\times$$ \u0394$$H_f$$\u00b0(O\u2082).",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 10
     },
     {
         "id": "a61d019thermogpt7a-h6",
@@ -82,6 +84,7 @@
         "text": "Subtract the sum of the enthalpies of the reactants from the sum of the enthalpies of the products to find \u0394H\u00b0 of the reaction: \u0394H\u00b0 $$=$$ [\u0394H\u00b0(products)] - [\u0394H\u00b0(reactants)].",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 10
     }
 ]

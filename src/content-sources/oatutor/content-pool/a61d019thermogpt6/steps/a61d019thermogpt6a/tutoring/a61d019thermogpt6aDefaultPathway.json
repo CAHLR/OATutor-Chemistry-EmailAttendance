@@ -48,6 +48,7 @@
         "text": "To find the enthalpy change of the overall reaction, sum the enthalpy changes of the individual reactions. Calculate \u0394H=\u0394H\u2081+\u0394H\u2082.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

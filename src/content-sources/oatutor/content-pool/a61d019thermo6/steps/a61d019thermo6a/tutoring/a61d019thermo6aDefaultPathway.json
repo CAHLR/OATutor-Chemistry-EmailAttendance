@@ -82,6 +82,7 @@
         "text": "The final enthalpy change for the target reaction can now be calculated:\\n\\nCH\u2082CO+3H\u2082O\u2192CH\u2084+O\u2082\\n\\nCompute the final enthalpy change.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

@@ -48,7 +48,8 @@
         "text": "Use the formula:\\n$$\\frac{V_1}{T_1}=\\frac{V_2}{T_2}$$\\n\\nGiven:\\n$$V_1=40.0$$, $$T_1=300$$, $$V_2=80.0$$. Calculate $$T_2$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a61d019thermogpt3c-h5",
@@ -77,7 +78,8 @@
         "text": "Given: $$c_P=20.8$$ and $$R=8.314$$, calculate $$c_V$$ for helium.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a61d019thermogpt3c-h7",
@@ -106,7 +108,8 @@
         "text": "The temperature change, \u0394T, is calculated by $$(T_2 - T_1)$$. With $$T_1=300$$ and $$T_2=600$$, find \u0394T.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a61d019thermogpt3c-h9",
@@ -123,6 +126,7 @@
         "text": "Using $$\u0394U = n \\cdot c_V \\cdot \u0394T$$ where $$n=3.00$$, $$c_V=12.486$$, $$\u0394T=300$$, find \u0394U.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

@@ -36,7 +36,8 @@
         "text": "What is the change in temperature (\u0394T) when neon is heated from $$300$$ K to $$800$$ K?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a61d019thermogpt4a-h4",
@@ -65,7 +66,8 @@
         "text": "Given that $$C_p$$ $$=$$ $$\\frac{5}{2}$$ R and the value of R $$=$$ $$8.314$$ $$\\frac{J}{mol\u00b7K}$$, compute the value of $$C_p$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a61d019thermogpt4a-h6",
@@ -94,6 +96,7 @@
         "text": "After calculating \u0394H in joules, convert it into kilojoules by dividing by $$1000$$. What is the final answer in kilojoules?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

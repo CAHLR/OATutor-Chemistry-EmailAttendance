@@ -24,7 +24,8 @@
         "text": "Find the change in volume \u0394V by subtracting the final volume from the initial volume: \u0394V $$=$$ $$V_{final} - V_{initial}.$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a61d019thermogpt1a-h3",
@@ -41,7 +42,8 @@
         "text": "Use the work formula W $$=$$ $$-P_{ext} \\times \u0394V$$ to find the work done in L\u00b7atm.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a61d019thermogpt1a-h4",
@@ -58,6 +60,7 @@
         "text": "Convert the calculated work from L\u00b7atm to Joules: W(J) $$=$$ W(L \u00b7 atm) $$\\times$$ $$101.3$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

@@ -59,7 +59,8 @@
         "text": "Next, calculate the heat gained by the ice. Note that c is applied per gram in this calculation. The ice undergoes two processes: warming from -10\u00b0C to 0\u00b0C, then melting to water at 0\u00b0C and further warming to $$T_{eq}$$.\\nFirst, let's compute the heat required to raise the temperature to 0\u00b0C $$q_{ice,warm}$$:\\n$$q_{ice,warm}$$ $$=$$ $$m_{ice} \\times c_{ice} \\times (T_{fusion} - T_{initial_{ice}})$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a61d019thermo5a-h5",
@@ -76,7 +77,8 @@
         "text": "After the ice reaches 0\u00b0C, it melts. Calculate the heat required to melt the ice $$q_{ice,melt}$$:\\n $$q_{ice,melt}$$ = $$n_{ice}$$ \u0394$$H_{fus}$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a61d019thermo5a-h6",

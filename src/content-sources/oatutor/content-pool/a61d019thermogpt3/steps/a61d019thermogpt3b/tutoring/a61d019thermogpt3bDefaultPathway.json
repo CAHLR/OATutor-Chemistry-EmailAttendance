@@ -48,7 +48,8 @@
         "text": "Calculate the pressure $$P_1$$ using $$PV=nRT;$$ $$P_1$$ $$=$$ $$\\frac{(3\u00d78.314\u00d7300)}{40}$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a61d019thermogpt3b-h5",
@@ -89,6 +90,7 @@
         "text": "With $$P=186.405$$ $$\\frac{J}{L}$$ and $$\u0394V=40$$ L, find w using the formula $$w=-P(V_2-V_1)$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

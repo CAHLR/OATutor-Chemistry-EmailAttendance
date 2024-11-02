@@ -94,6 +94,7 @@
         "text": "Using calculated $$T_1$$, substitute back into $$T_2=\\frac{50T_1}{100}$$ to find the final temperature $$T_2$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0
     }
 ]

@@ -60,6 +60,7 @@
         "text": "The first law of thermodynamics states:\\n\u0394U $$=$$ $$Q - W$$\\nFor an isobaric process, the heat added ($$Q$$) is given by:\\n$$Q=\\operatorname{nc_P}\\left(T_f-T_i\\right)$$\\nSubstitute to find \u0394U:\\n\u0394U $$=$$ $$\\operatorname{nc_P}\\left(T_f-T_i\\right)-P\\left(T_f-T_i\\right)$$\\nUtilize the values for $$n$$, $$c_P$$, and the temperature change calculated from ideal gas behavior to find \u0394U.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 1
     }
 ]

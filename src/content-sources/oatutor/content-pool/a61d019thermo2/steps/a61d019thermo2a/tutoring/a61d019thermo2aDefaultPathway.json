@@ -48,6 +48,7 @@
         "text": "Equate the heat gained by zinc to the heat lost by water and solve for $$T_f$$:\\n$$200$$ \u00d7 $$4.22(373$$ - $$T_f$$) $$=$$ $$60$$ \u00d7 0.389($$T_f$$ - 293)",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]
