@@ -16,7 +16,7 @@
             "a61d019thermogpt4b-h1"
         ],
         "title": "Evaluate given values",
-        "text": "List the known values from the problem statement:\\n\\n- Number of moles, $$n$$ $$=$$ $$3.00$$\\nMolar heat capacity, $$C_p=\\frac{7}{2}$$ \u00b7 R\\nGas constant, R $$=$$ $$8.314$$ $$\\frac{J}{mol}$$ \u00b7 K\\nChange in temperature is given by the problem (assumed constant for this step)\\n\\nUse these values to substitute into the formula.",
+        "text": "List the known values from the problem statement:\\n\\nNumber of moles, $$n$$ $$=$$ $$3.00$$\\nMolar heat capacity, $$C_p=\\frac{7}{2}$$ \u00b7 R\\nGas constant, R $$=$$ $$8.314$$ $$\\frac{J}{mol}$$ \u00b7 K\\nChange in temperature is given by the problem (assumed constant for this step)\\n\\nUse these values to substitute into the formula.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a61d019thermogpt4b-h2"
         ],
         "title": "Substitute and calculate",
-        "text": "Calculate the change in enthalpy using the formula and known values:\\n\\n\u0394H $$=$$ $$3.00$$ \u00b7 (7/2 \u00b7 $$8.314)$$ \u00b7 \u0394T\\n\\nTo complete the calculation, you need to multiply the coefficients and solve for \u0394H.",
+        "text": "Calculate the change in enthalpy using the formula and known values:\\n\\n\u0394H $$=$$ $$3.00$$ \u00b7 ($$\\frac{7}{2}$$ \u00b7 $$8.314)$$ \u00b7 \u0394T\\n\\nTo complete the calculation, you need to multiply the coefficients and solve for \u0394H.",
         "variabilization": {},
         "oer": "",
         "license": ""

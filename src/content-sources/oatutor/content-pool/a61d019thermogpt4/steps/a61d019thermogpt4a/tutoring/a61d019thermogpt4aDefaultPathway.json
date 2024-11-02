@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understand the formula for enthalpy change",
-        "text": "The change in enthalpy \u0394H when a gas is heated is calculated using the formula: \u0394H $$=n$$ * $$C_p$$ * \u0394T where $$n$$ is the number of moles, $$C_p$$ is the molar heat capacity at constant pressure, and \u0394T is the change in temperature.",
+        "text": "The change in enthalpy \u0394H when a gas is heated is calculated using the formula: \u0394H $$=n \\times C_p \\times \u0394T$$ where $$n$$ is the number of moles, $$C_p$$ is the molar heat capacity at constant pressure, and \u0394T is the change in temperature.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "a61d019thermogpt4a-h1"
         ],
         "title": "Compute the temperature change",
-        "text": "To find \u0394T, subtract the initial temperature from the final temperature: \u0394T $$=$$ T_{final} - T_{initial}. In this problem, T_{final} $$=$$ 800K andT_{initial} $$=$$ 300K. What's the value of \u0394T?",
+        "text": "To find \u0394T, subtract the initial temperature from the final temperature: \u0394T $$=$$ $$T_{final}-T_{initial}$$. In this problem, $$T_{final}$$ $$=$$ 800K and $$T_{initial}$$ $$=$$ 300K. What's the value of \u0394T?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a61d019thermogpt4a-h3"
         ],
         "title": "Apply the formula for enthalpy change",
-        "text": "Use the formula \u0394H $$=$$ $$n$$ * $$C_p$$ * \u0394T with $$n$$ $$=$$ $$3.00$$, $$C_p$$ $$=$$ $$\\frac{5}{2}$$ R, and \u0394T you've calculated.",
+        "text": "Use the formula \u0394H $$=$$ $$n \\times C_p \\times \u0394T$$ with $$n$$ $$=$$ $$3.00$$, $$C_p$$ $$=$$ $$\\frac{5}{2}$$ R, and \u0394T you've calculated.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -74,7 +74,7 @@
             "a61d019thermogpt4a-h5"
         ],
         "title": "Calculate the change in enthalpy",
-        "text": "Substitute $$n$$ $$=$$ $$3.00$$, $$C_p$$ $$=$$ $$20.785$$ $$\\frac{J}{mol\u00b7K}$$, and \u0394T $$=$$ 500K into the equation \u0394H $$=n$$ * $$C_p$$ * \u0394T to find the enthalpy change in J.",
+        "text": "Substitute $$n$$ $$=$$ $$3.00$$, $$C_p$$ $$=$$ $$20.785$$ $$\\frac{J}{mol\u00b7K}$$, and \u0394T $$=$$ 500K into the equation \u0394H = $$n \\times C_p \\times \u0394T$$ to find the enthalpy change in J.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -85,7 +85,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$31$$"
+            "$$31.2$$"
         ],
         "dependencies": [
             "a61d019thermogpt4a-h6"

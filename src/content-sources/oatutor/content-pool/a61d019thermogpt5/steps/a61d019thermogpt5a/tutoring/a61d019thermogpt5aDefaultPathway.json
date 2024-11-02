@@ -33,7 +33,7 @@
             "a61d019thermogpt5a-h2"
         ],
         "title": "Calculate the Heat Needed to Raise the Ice to 0\u00b0C",
-        "text": "Use the formula: $$Q=cm\u0394T$$ where c is the specific heat, $$m$$ is the mass, and \u0394T is the change in temperature. For ice, the specific heat is $$2.09$$ J g**-1\u00b0C**-1.",
+        "text": "Use the formula: $$Q=cm\u0394T$$ where c is the specific heat, $$m$$ is the mass, and \u0394T is the change in temperature. For ice, the specific heat is $$2.09$$ $$J$$ $$g^{-1}$$\u00b0$$C^{-1}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,7 +44,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$Q=(6.007$$ kJ/mol)*(50/18.015)"
+            "$$Q=(6.007 \\frac{kJ}{mol}) \\times (\\frac{50}{18.015})$$"
         ],
         "dependencies": [
             "a61d019thermogpt5a-h3"
@@ -55,10 +55,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "$$Q=(6.007$$ kJ/mol)*(50/18.015)",
-            "$$Q=(6.007$$ kJ/mol)+(50/18.015)",
-            "$$Q=(18.015$$ kJ/mol)*(50/6.007)",
-            "$$Q=(18.015$$ kJ/mol)*(6.007/50)"
+            "$$Q=(6.007 \\frac{kJ}{mol}) \\times (\\frac{50}{18.015})$$",
+            "$$Q=(6.007 \\frac{kJ}{mol}) + (\\frac{50}{18.015})$$",
+            "$$Q=(18.015 \\frac{kJ}{mol}) \\times (\\frac{50}{6.007})$$",
+            "$$Q=(18.015 \\frac{kJ}{mol}) \\times (\\frac{6.007}{50})$$"
         ]
     },
     {
@@ -80,8 +80,8 @@
         "choices": [
             "$$Q=4.18\u00d7500(25-T)$$",
             "$$Q=4.18\u00d7500(25\u00d7T)$$",
-            "Q=4.18+500(25\u00d7T)",
-            "Q=25+500(4.18\u00d7T)"
+            "$$Q=4.18+500(25\u00d7T)$$",
+            "$$Q=25+500(4.18\u00d7T)$$"
         ]
     },
     {
@@ -102,7 +102,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$finalTemp=\\frac{heatLostByWaterHeatGainedByIce}{massOfWater}$$ * specificHeat"
+            "$$finalTemp=\\frac{heatLostByWaterHeatGainedByIce}{massOfWater}$$ $$\\times$$ specificHeat"
         ],
         "dependencies": [
             "a61d019thermogpt5a-h6"
@@ -113,9 +113,9 @@
         "oer": "",
         "license": "",
         "choices": [
-            "$$finalTemp=\\frac{heatLostByWaterHeatGainedByIce}{massOfWater}$$ * specificHeat",
+            "$$finalTemp=\\frac{heatLostByWaterHeatGainedByIce}{massOfWater}$$ $$\\times$$ specificHeat",
             "$$finalTemp=\\frac{heatLostByWaterHeatGainedByIce}{massOfWater}$$",
-            "$$finalTemp=\\frac{massOfWater}{heatLostByWaterHeatGainedByIce}$$ * specificHeat",
+            "$$finalTemp=\\frac{massOfWater}{heatLostByWaterHeatGainedByIce}$$ $$\\times$$ specificHeat",
             "$$finalTemp=\\frac{massOfWater}{heatLostByWaterHeatGainedByIce}$$"
         ]
     }

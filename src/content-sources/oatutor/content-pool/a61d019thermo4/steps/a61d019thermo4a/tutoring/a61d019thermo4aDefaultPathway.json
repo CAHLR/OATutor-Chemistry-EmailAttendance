@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Enthalpy Change",
-        "text": "Enthalpy change at constant pressure can be calculated using the formula: \u0394H $$=$$ $$nC_{p\\Delta T}$$.",
+        "text": "Enthalpy change at constant pressure can be calculated using the formula: \u0394H $$=$$ $$nC_{p}\\Delta T$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "a61d019thermo4a-h1"
         ],
         "title": "Moles and Heat Capacity Relationship",
-        "text": "In the formula \u0394H $$=$$ $$nC_{p\\Delta T}$$, the term $$n$$ represents the number of moles, $$C_p$$ is the molar heat capacity at constant pressure, and \u0394T is the change in temperature.",
+        "text": "In the formula \u0394H $$=$$ $$nC_{p}\\Delta T$$, the term $$n$$ represents the number of moles, $$C_p$$ is the molar heat capacity at constant pressure, and \u0394T is the change in temperature.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "a61d019thermo4a-h2"
         ],
         "title": "Find the Change in Temperature",
-        "text": "Calculate the temperature change by subtracting the initial temperature from the final temperature: \u0394T $$=$$ T_{final}-T_{initial}.",
+        "text": "Calculate the temperature change by subtracting the initial temperature from the final temperature: \u0394T $$=$$ $$T_{final}-T_{initial}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,7 +44,7 @@
         "dependencies": [
             "a61d019thermo4a-h3"
         ],
-        "title": "Calculate \\( \\Delta T \\)",
+        "title": "Calculate $$\\Delta T$$",
         "text": "Temperature changes from $$298$$ K to $$573$$ K. Calculate \u0394T.",
         "variabilization": {},
         "oer": "",
@@ -97,7 +97,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$11$$"
+            "$$11.3$$"
         ],
         "dependencies": [
             "a61d019thermo4a-h7"

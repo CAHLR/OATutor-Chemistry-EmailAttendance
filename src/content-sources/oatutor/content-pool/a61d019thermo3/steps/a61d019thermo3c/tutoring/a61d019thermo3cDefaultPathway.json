@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the given values",
-        "text": "Let's start by identifying the given values. We have:\\nInitial pressure, $$P=2.00$$ atm\\nInitial volume, $$V_i=100$$ L\\nFinal volume,\\n$$V_f=50.0$$ L\\nNumber of moles, $$n=6.00$$ mol\\nHeat capacity at constant pressure,\\n$$c_P=29.3$$ $$\\frac{J}{Kmol}$$",
+        "text": "Let's start by identifying the given values. We have:\\nInitial pressure, $$P=2.00$$ atm\\nInitial volume, $$V_i=100$$ L\\nFinal volume,$$V_f=50.0$$ L\\nNumber of moles, $$n=6.00$$ mol\\nHeat capacity at constant pressure,\\n$$c_P=29.3$$ $$\\frac{J}{Kmol}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "a61d019thermo3c-h1"
         ],
         "title": "Use the Ideal Gas Law",
-        "text": "The Ideal Gas Law relates pressure, volume, and temperature:\\nPV $$=$$ nRT\\n\\nFirst, let's calculate the initial temperature\\n$$T_i$$ by rearranging the equation:\\n$$T_i$$ $$=$$ $$\\frac{PV}{nR}$$\\nWhere R is the ideal gas constant: $$R=0.0821$$ L atm/(K mol)",
+        "text": "The Ideal Gas Law relates pressure, volume, and temperature:\\nPV $$=$$ nRT\\n\\nFirst, let's calculate the initial temperature\\n$$T_i$$ by rearranging the equation:\\n$$T_i$$ $$=$$ $$\\frac{PV}{nR}$$\\nWhere $$R$$ is the ideal gas constant: $$R=0.0821 L \\frac{atm}{K \\cdot mol}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -57,7 +57,7 @@
             "a61d019thermo3c-h4"
         ],
         "title": "Calculating the internal energy change",
-        "text": "The first law of thermodynamics states:\\n\u0394U $$=$$ Q - W\\nFor an isobaric process, the heat added (Q) is given by:\\n$$Q=\\operatorname{nc_P}\\left(T_f-T_i\\right)$$\\nSubstitute to find \u0394U:\\n\u0394U $$=$$ $$\\operatorname{nc_P}\\left(T_f-T_i\\right)-P\\left(T_f-T_i\\right)$$\\nUtilize the values for $$n$$, $$c_P$$, and the temperature change calculated from ideal gas behavior to find \u0394U.",
+        "text": "The first law of thermodynamics states:\\n\u0394U $$=$$ $$Q - W$$\\nFor an isobaric process, the heat added ($$Q$$) is given by:\\n$$Q=\\operatorname{nc_P}\\left(T_f-T_i\\right)$$\\nSubstitute to find \u0394U:\\n\u0394U $$=$$ $$\\operatorname{nc_P}\\left(T_f-T_i\\right)-P\\left(T_f-T_i\\right)$$\\nUtilize the values for $$n$$, $$c_P$$, and the temperature change calculated from ideal gas behavior to find \u0394U.",
         "variabilization": {},
         "oer": "",
         "license": ""

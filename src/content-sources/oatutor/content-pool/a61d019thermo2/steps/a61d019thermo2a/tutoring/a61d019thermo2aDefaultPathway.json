@@ -16,7 +16,7 @@
             "a61d019thermo2a-h1"
         ],
         "title": "Set Up the Heat Exchange Equation",
-        "text": "Use the equation:\\n$$m_w$$ * $$c_w$$ * (T_i,w - T_f) $$=$$ $$m_z$$ * $$c_z$$ * (T_f - T_i,z)\\n\\nWhere:\\n\\n$$m_w$$: mass of water\\n$$c_w$$: specific heat capacity of water\\n$$T_{i,w}$$: initial temperature of water\\n$$T_f$$: final temperature of both\\n$$m_z$$: mass of zinc\\n$$c_z$$: specific heat capacity of zinc\\n$$T_{i,z}$$: initial temperature of zinc",
+        "text": "Use the equation:\\n$$m_w$$ $$\\times$$ $$c_w$$ $$\\times$$ $$(T_{i,w} - T_f)$$ $$=$$ $$m_z$$ $$\\times$$ $$c_z$$ $$\\times$$ $$(T_f - T_{i,z})$$\\n\\nWhere:\\n\\n$$m_w$$: mass of water\\n$$c_w$$: specific heat capacity of water\\n$$T_{i,w}$$: initial temperature of water\\n$$T_f$$: final temperature of both\\n$$m_z$$: mass of zinc\\n$$c_z$$: specific heat capacity of zinc\\n$$T_{i,z}$$: initial temperature of zinc",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a61d019thermo2a-h3"
         ],
         "title": "Solve for Final Temperature $$T_f$$",
-        "text": "Equate the heat gained by zinc to the heat lost by water and solve for $$T_f$$:\\n$$200$$ \u00d7 $$4.22(373$$ - T_f) $$=$$ $$60$$ \u00d7 0.389(T_f - 293)",
+        "text": "Equate the heat gained by zinc to the heat lost by water and solve for $$T_f$$:\\n$$200$$ \u00d7 $$4.22(373$$ - $$T_f$$) $$=$$ $$60$$ \u00d7 0.389($$T_f$$ - 293)",
         "variabilization": {},
         "oer": "",
         "license": ""

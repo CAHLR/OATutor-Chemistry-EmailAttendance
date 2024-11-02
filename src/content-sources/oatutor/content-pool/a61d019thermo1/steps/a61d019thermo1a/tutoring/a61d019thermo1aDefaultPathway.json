@@ -16,7 +16,7 @@
             "a61d019thermo1a-h1"
         ],
         "title": "Formula for Work Done",
-        "text": "Recall that work W done by a gas when it is expanded or compressed at constant pressure P can be calculated using the formula: W=P(V_f-V_i, where $$V_i$$ is the initial volume and $$V_f$$ is the final volume.",
+        "text": "Recall that work W done by a gas when it is expanded or compressed at constant pressure P can be calculated using the formula: $$W=P(V_f-V_i)$$, where $$V_i$$ is the initial volume and $$V_f$$ is the final volume.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -49,8 +49,8 @@
         "dependencies": [
             "a61d019thermo1a-h3"
         ],
-        "title": "Calculate Work Done in Latm",
-        "text": "Using the pressure $$P=50.0atm$$ and change in volume $$\u0394V=432L$$, find work done in Latm.",
+        "title": "Calculate Work Done in L$$\\cdot$$atm",
+        "text": "Using the pressure $$P=50.0atm$$ and change in volume $$\u0394V=432L$$, find work done in L$$\\cdot$$atm.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -61,8 +61,8 @@
         "dependencies": [
             "a61d019thermo1a-h4"
         ],
-        "title": "Converting $$L atm$$ to Joules",
-        "text": "$$1$$ Latm equals $$101.3$$ J. Use this conversion to express the work done in joules.",
+        "title": "Converting L$$\\cdot$$atm to Joules",
+        "text": "$$1$$ L$$\\cdot$$atm equals $$101.3$$ J. Use this conversion to express the work done in joules.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -79,7 +79,7 @@
             "a61d019thermo1a-h5"
         ],
         "title": "Compute Work Done in Joules",
-        "text": "Compute the work done using (21600 L*atm)*(101.3J/L*atm).",
+        "text": "Compute the work done using (21600 L$$\\cdot$$atm) $$\\times$$ $$(\\frac{101.3J}{L \\cdot atm}).$$",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -16,7 +16,7 @@
             "a61d019thermo6a-h1"
         ],
         "title": "Identify Target and Given Reactions",
-        "text": "Reactions given:\\n$$1$$. CH\u2082CO+2O\u2082\u21922CO\u2082+H\u2082O (\u0394H_1=-981.1kJ)\\n$$2$$. CH\u2084+2O\u2082\u2192CO\u2082+2H\u2082O (\u0394H_2=-802.3kJ)\\n\\nTarget reaction:\\n2CH\u2084+2O\u2082\u2192CH\u2082CO+3H\u2082O\\n\\nIdentify if you need to reverse or scale these reactions to obtain the target reaction.",
+        "text": "Reactions given:\\n$$1$$. CH\u2082CO+2O\u2082\u21922CO\u2082+H\u2082O (\u0394$$H_1$$=-981.1kJ)\\n$$2$$. CH\u2084+2O\u2082\u2192CO\u2082+2H\u2082O (\u0394$$H_2$$=-802.3kJ)\\n\\nTarget reaction:\\n2CH\u2084+2O\u2082\u2192CH\u2082CO+3H\u2082O\\n\\nIdentify if you need to reverse or scale these reactions to obtain the target reaction.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a61d019thermo6a-h2"
         ],
-        "title": "Reverse and Scale the Methane Reaction",
-        "text": "In order to achieve the target reaction, reverse the burning of methane reaction and adjust the coefficients to match the stoichiometry:\\n\\n- Reverse CH\u2084+2O\u2082\u2192CO\u2082+2H\u2082O\\n\\nScale it by $$2$$ for stoichiometry.\\n\\nWhat is the new reaction and the adjusted enthalpy?",
+        "title": "Scale the Methane Reaction",
+        "text": "In order to achieve the target reaction, adjust the coefficients to match the stoichiometry:\\n\\nScale it by $$2$$ for stoichiometry.\\n\\nWhat is the new reaction and the adjusted enthalpy?",
         "variabilization": {},
         "oer": "",
         "license": "",

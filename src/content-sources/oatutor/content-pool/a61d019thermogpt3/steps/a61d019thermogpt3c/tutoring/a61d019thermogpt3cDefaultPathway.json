@@ -28,7 +28,7 @@
             "a61d019thermogpt3c-h2"
         ],
         "title": "Calculating the Temperature Change",
-        "text": "Since pressure is constant, the relationship between temperature and volume is: $$\\frac{V_1}{T_1}=$$ $$\\frac{V_2}{T_2}$$. Calculate the final temperature T2 using this formula.",
+        "text": "Since pressure is constant, the relationship between temperature and volume is: $$\\frac{V_1}{T_1}=$$ $$\\frac{V_2}{T_2}$$. Calculate the final temperature $$T_2$$ using this formula.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a61d019thermogpt3c-h3"
         ],
         "title": "Finding the Final Temperature $$T_2$$",
-        "text": "Use the formula:\\n$$\\frac{V_1}{T_1}=\\frac{V_2}{T_2}$$\\n\\nGiven:\\n$$V_1=40.0$$, $$T1=300$$, $$V2=80.0$$. Calculate T2.",
+        "text": "Use the formula:\\n$$\\frac{V_1}{T_1}=\\frac{V_2}{T_2}$$\\n\\nGiven:\\n$$V_1=40.0$$, $$T_1=300$$, $$V_2=80.0$$. Calculate $$T_2$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -57,7 +57,7 @@
             "a61d019thermogpt3c-h4"
         ],
         "title": "Understanding $$c_V$$",
-        "text": "Remember, $$c_V$$ (molar heat capacity at constant volume) is derived by subtracting R from $$c_P$$. Apply this for helium.",
+        "text": "Remember, $$c_V$$ (molar heat capacity at constant volume) is derived by subtracting $$R$$ from $$c_P$$. Apply this for helium.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -86,7 +86,7 @@
             "a61d019thermogpt3c-h6"
         ],
         "title": "Internal Energy Change Formula",
-        "text": "The change in internal energy is given by \u0394U $$=$$ $$n$$ * $$c_V$$ * \u0394T. Do you have all values to calculate this?",
+        "text": "The change in internal energy is given by \u0394U $$=$$ $$n \\times c_V \\times \u0394T$$. Do you have all values to calculate this?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -103,7 +103,7 @@
             "a61d019thermogpt3c-h7"
         ],
         "title": "Calculate the Temperature Change \u0394T",
-        "text": "The temperature change, \u0394T, is calculated by (T_2 - T_1). With $$T_1=300$$ and $$T_2=600$$, find \u0394T.",
+        "text": "The temperature change, \u0394T, is calculated by $$(T_2 - T_1)$$. With $$T_1=300$$ and $$T_2=600$$, find \u0394T.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -120,7 +120,7 @@
             "a61d019thermogpt3c-h8"
         ],
         "title": "Calculate Internal Energy Change \u0394U",
-        "text": "Using \u0394U $$=$$ $$n$$ * $$c_V$$ * \u0394T where $$n=3.00$$, $$c_V=12.486$$, $$\u0394T=300$$, find \u0394U.",
+        "text": "Using $$\u0394U = n \\cdot c_V \\cdot \u0394T$$ where $$n=3.00$$, $$c_V=12.486$$, $$\u0394T=300$$, find \u0394U.",
         "variabilization": {},
         "oer": "",
         "license": ""

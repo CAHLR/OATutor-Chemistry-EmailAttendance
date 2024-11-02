@@ -91,7 +91,7 @@
             "a61d019thermo3a-h5"
         ],
         "title": "Compute Final Temperature",
-        "text": "Using calculated T1, substitute back into $$T_2=\\frac{50T_1}{100}$$ to find the final temperature T2.",
+        "text": "Using calculated $$T_1$$, substitute back into $$T_2=\\frac{50T_1}{100}$$ to find the final temperature $$T_2$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
