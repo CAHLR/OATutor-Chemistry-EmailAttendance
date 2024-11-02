@@ -102,20 +102,6 @@ class HintSystem extends React.Component {
                 prevState.subHintsFinished[i][hintNum] = !isScaffold ? 1 : 0.5;
                 return { subHintsFinished: prevState.subHintsFinished };
             },
-            () => {
-                this.context.firebase.log(
-                    null,
-                    this.props.problemID,
-                    this.step,
-                    null,
-                    null,
-                    this.state.subHintsFinished,
-                    "unlockSubHint",
-                    chooseVariables(this.props.stepVars, this.props.seed),
-                    this.props.lesson,
-                    this.props.courseName
-                );
-            }
         );
     };
 
