@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/OATutor-Chemistry-Thermo1/static/css/main.2770c070.css",
-    "main.js": "/OATutor-Chemistry-Thermo1/static/js/main.8e6a3156.js",
-    "static/js/790.fd05bda3.chunk.js": "/OATutor-Chemistry-Thermo1/static/js/790.fd05bda3.chunk.js",
-    "static/media/Symbola.svg": "/OATutor-Chemistry-Thermo1/static/media/Symbola.f647c9292a2da02d9ae8.svg",
-    "static/media/Symbola.eot": "/OATutor-Chemistry-Thermo1/static/media/Symbola.d25fbd520f6558203fb4.eot",
-    "static/media/Symbola.ttf": "/OATutor-Chemistry-Thermo1/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
-    "static/media/Symbola.woff": "/OATutor-Chemistry-Thermo1/static/media/Symbola.353fd9bde3c87711f5fc.woff",
-    "static/media/Symbola.woff2": "/OATutor-Chemistry-Thermo1/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
-    "index.html": "/OATutor-Chemistry-Thermo1/index.html",
-    "main.2770c070.css.map": "/OATutor-Chemistry-Thermo1/static/css/main.2770c070.css.map",
-    "main.8e6a3156.js.map": "/OATutor-Chemistry-Thermo1/static/js/main.8e6a3156.js.map"
+    "main.css": "/OATutor-Chemistry-Thermo2/static/css/main.ec649ae7.css",
+    "main.js": "/OATutor-Chemistry-Thermo2/static/js/main.758cfa71.js",
+    "static/js/790.fd05bda3.chunk.js": "/OATutor-Chemistry-Thermo2/static/js/790.fd05bda3.chunk.js",
+    "static/media/Symbola.svg": "/OATutor-Chemistry-Thermo2/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/OATutor-Chemistry-Thermo2/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/OATutor-Chemistry-Thermo2/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/OATutor-Chemistry-Thermo2/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/OATutor-Chemistry-Thermo2/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/OATutor-Chemistry-Thermo2/index.html",
+    "main.ec649ae7.css.map": "/OATutor-Chemistry-Thermo2/static/css/main.ec649ae7.css.map",
+    "main.758cfa71.js.map": "/OATutor-Chemistry-Thermo2/static/js/main.758cfa71.js.map"
   },
   "entrypoints": [
-    "static/css/main.2770c070.css",
-    "static/js/main.8e6a3156.js"
+    "static/css/main.ec649ae7.css",
+    "static/js/main.758cfa71.js"
   ]
 }
