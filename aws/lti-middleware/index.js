@@ -29,7 +29,7 @@ const consumerKeySecretMap = {
   key: "secret",
 };
 
-const oatsHost = "https://cahlr.github.io/OATutor-Chemistry-Thermo1/#";
+const oatsHost = "https://cahlr.github.io/OATutor-Chemistry-Thermo2/#";
 const unlinkedPage = "assignment-not-linked";
 const alreadyLinkedPage = "assignment-already-linked";
 const jwtAlgorithm = "HS256";
