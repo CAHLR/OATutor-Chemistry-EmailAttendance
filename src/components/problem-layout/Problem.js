@@ -89,6 +89,12 @@ class Problem extends React.Component {
         }
     }
 
+    componentDidUpdate() {
+        if (this.props.graduated) {
+            this.updateCanvas(1.0, {});
+        }
+    }
+
     componentWillUnmount() {
         document["oats-meta-courseName"] = "";
         document["oats-meta-textbookName"] = "";
@@ -272,8 +278,7 @@ class Problem extends React.Component {
                 relevantKc[x] = this.bktParams[x].probMastery;
             });
 
-            console.log(score)
-            this.updateCanvas(score, relevantKc);
+            this.updateCanvas(0.0, relevantKc);
         } 
         const nextStepStates = {
             ...stepStates,

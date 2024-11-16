@@ -556,6 +556,7 @@ class Platform extends React.Component {
                             seed={this.state.seed}
                             lessonID={this.props.lessonID}
                             displayMastery={this.displayMastery}
+                            graduated={this.state.status === "graduated"}
                         />
                     </ErrorBoundary>
                 ) : (
