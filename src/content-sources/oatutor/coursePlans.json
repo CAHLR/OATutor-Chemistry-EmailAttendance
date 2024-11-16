@@ -9,6 +9,7 @@
                 "name": "Lesson Thermo2",
                 "topics": "",
                 "allowRecycle": true,
+                "showStuMastery": false,
                 "learningObjectives": {
                     "problem1": 0.85,
                     "problem2": 0.85,
