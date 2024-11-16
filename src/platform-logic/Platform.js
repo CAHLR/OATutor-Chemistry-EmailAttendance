@@ -473,9 +473,6 @@ class Platform extends React.Component {
     displayMastery = (mastery) => {
         this.setState({ mastery: mastery });
         if (mastery >= MASTERY_THRESHOLD) {
-            toast.success("You've successfully completed this assignment!", {
-                toastId: ToastID.successfully_completed_lesson.toString(),
-            });
         }
     };
 
