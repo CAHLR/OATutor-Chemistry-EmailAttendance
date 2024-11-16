@@ -39,7 +39,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "\u0394H < $$0$$ and |\u0394H| > |T\u0394S|"
+            "When ΔH < 0 and |ΔH| > |TΔS|"
         ],
         "dependencies": [
             "a73f488GPT5ForHuman5a-h3"
@@ -50,13 +50,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "\u0394H and T\u0394S are both negative",
-            "\u0394H > $$0$$",
-            "\u0394H < $$0$$ and",
-            "\u0394H",
-            ">",
-            "T\u0394S",
-            "\u0394H $$=$$ $$0$$"
+            "When ΔH = 0",
+            "When ΔH < 0 and |ΔH| > |TΔS|",
+            "When ΔH > 0",
+            "When ΔH and TΔS are both negative"
         ]
     }
 ]

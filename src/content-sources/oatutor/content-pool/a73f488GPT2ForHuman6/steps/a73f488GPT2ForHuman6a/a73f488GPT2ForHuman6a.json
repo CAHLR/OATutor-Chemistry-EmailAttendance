@@ -4,7 +4,7 @@
         "T < $$467$$ K"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Consider the following reaction:\\n\\nN\u2082(g) + 3H\u2082(g) \u21cc 2NH\u2083(g)\\n\\nIf the enthalpy change (\u0394H) for this reaction is $$-92.6$$ $$\\frac{kJ}{mol}$$ and the entropy change (\u0394S) is $$-198.3$$ $$\\frac{J}{mol\u00b7K}$$, calculate the temperature range in which the reaction is spontaneous. Select the correct answer from the choices below:",
+    "stepTitle": "Consider the following reaction:\\n\\nN\u2082(g) + 3H\u2082(g) \u21cc 2NH\u2083(g)\\n\\nIf the enthalpy change (\u0394H) for this reaction is $$-92.6$$ $$\\frac{kJ}{mol}$$ and the entropy change (\u0394S) is $$-198.3$$ $$\\frac{J}{mol\u00b7K}$$, calculate the temperature range in which the reaction is spontaneous.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

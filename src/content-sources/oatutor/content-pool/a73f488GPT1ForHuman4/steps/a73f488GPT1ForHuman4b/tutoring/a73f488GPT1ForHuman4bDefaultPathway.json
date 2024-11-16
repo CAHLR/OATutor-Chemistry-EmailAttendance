@@ -16,7 +16,7 @@
             "a73f488GPT1ForHuman4b-h1"
         ],
         "title": "Check \u2206G\u00b0 Value",
-        "text": "Since $$\u2206G\\degree=\\frac{-33.3kJ}{mol}$$ is negative, what does this imply about the reaction's spontaneity?",
+        "text": "Since \u2206G\u00b0=$$\\frac{-33.3kJ}{mol}$$ is negative, what does this imply about the reaction's spontaneity?",
         "variabilization": {},
         "oer": "",
         "license": ""

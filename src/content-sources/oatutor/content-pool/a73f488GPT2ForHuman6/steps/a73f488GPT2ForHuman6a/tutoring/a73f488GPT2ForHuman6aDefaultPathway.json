@@ -28,7 +28,7 @@
             "a73f488GPT2ForHuman6a-h2"
         ],
         "title": "Substitute the Known Values",
-        "text": "Substitute the given values for \u0394H $$(-92.6$$ kJ/mol) and \u0394S $$(-198.3$$ J/mol\u00b7K). Remember to convert units where necessary.",
+        "text": "Substitute the given values for \u0394H $$(-92.6$$ $$\\frac{kJ}{mol}$$) and \u0394S $$(-198.3$$ $$\\frac{J}{K\u00b7mol}$$). Remember to convert units where necessary.",
         "variabilization": {},
         "oer": "",
         "license": ""

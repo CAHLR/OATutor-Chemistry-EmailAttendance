@@ -52,7 +52,7 @@
             "a73f488GPT1ForHuman4c-h4"
         ],
         "title": "Perform Calculation to Determine T",
-        "text": "Use the known values, $$\u2206G=$$ $$-33.30$$ $$\\frac{kJ}{mol}$$ and \u2206H(which is \u2206$$H_f$$\u00b0) $$=$$ $$-45.90$$ $$\\frac{kJ}{mol}$$, and substitute them into the equation:\\nT=\u2206H/\u2206S\\nFirst, calculate \u2206S using \u2206G $$=$$ \u2206H-T \u00d7 \u2206S.",
+        "text": "Use the known values, $$\u2206G=$$ $$-33.30$$ $$\\frac{kJ}{mol}$$ and \u2206H(which is \u2206$$H_f$$\u00b0) $$=$$ $$-45.90$$ $$\\frac{kJ}{mol}$$, and substitute them into the equation:\\nT=$$\\frac{\\Delta H}{\\Delta S}$$\\nFirst, calculate \u2206S using \u2206G $$=$$ \u2206H-T \u00d7 \u2206S.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -76,7 +76,7 @@
             "a73f488GPT1ForHuman4c-h6"
         ],
         "title": "Find \u2206S and Solve for T",
-        "text": "After rearranging to solve for \u2206S:\\n\u2206S=\u2206H/T\\nUse $$\u2206H=\\frac{-45.9kJ}{mol}$$ and the provided equilibrium condition to estimate when $$\u2206H=\\frac{-33.3kJ}{mol}$$.",
+        "text": "After rearranging to solve for \u2206S:\\n$$\\Delta S = \\frac{\\Delta H}{T}$$\\nUse \u2206H=$$\\frac{-45.9kJ}{mol}$$ and the provided equilibrium condition to estimate when \u2206$$H=\\frac{-33.3kJ}{mol}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -93,7 +93,7 @@
             "a73f488GPT1ForHuman4c-h7"
         ],
         "title": "Substitute Values & Calculate Temperature",
-        "text": "After finding \u2206S, take the temperature value, convert to Kelvin if needed, and input into the equation:\\nT=\u2206H/\u2206S,\\nwhich provides the temperature at which the reaction becomes non-spontaneous.",
+        "text": "After finding \u2206S, take the temperature value, convert to Kelvin if needed, and input into the equation:\\nT=$$\\frac{\\Delta H}{\\Delta S}$$,\\nwhich provides the temperature at which the reaction becomes non-spontaneous.",
         "variabilization": {},
         "oer": "",
         "license": ""
