@@ -4,6 +4,7 @@ import Grid from "@material-ui/core/Grid";
 import Problem from "@components/problem-layout/Problem.js";
 import LessonSelection from "@components/problem-layout/LessonSelection.js";
 import { withRouter } from "react-router-dom";
+import { updateCanvas } from "../components/problem-layout/Problem"
 
 import {
     coursePlans,
@@ -556,7 +557,6 @@ class Platform extends React.Component {
                             seed={this.state.seed}
                             lessonID={this.props.lessonID}
                             displayMastery={this.displayMastery}
-                            graduated={this.state.status === "graduated"}
                         />
                     </ErrorBoundary>
                 ) : (
@@ -579,6 +579,11 @@ class Platform extends React.Component {
                             mastered all the skills for this session!
                         </h2>
                     </center>
+                ) : (
+                    ""
+                )}
+                {this.state.status === "graduated" ? (
+                    updateCanvas(1.0, {})
                 ) : (
                     ""
                 )}
