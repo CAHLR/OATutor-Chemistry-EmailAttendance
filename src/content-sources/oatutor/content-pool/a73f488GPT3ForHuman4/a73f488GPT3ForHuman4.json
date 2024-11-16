@@ -1,7 +1,7 @@
 {
     "id": "a73f488GPT3ForHuman4",
     "title": "Consider the following reaction:\\n\\n$$C_2 H_4$$ (g) + $$H_2$$ (g) \u21cc $$C_2 H_6$$ (g)\\n\\nAt 298K, the standard Gibbs free energy change, \u2206G\u00b0 for this reaction is $$-32.89$$ $$\\frac{kJ}{mol}$$. The standard heats of formation, \u2206$$H_f$$\u00b0, are as follows: $$C_2 H_4$$ (g) $$=$$ $$52.47$$ $$\\frac{kJ}{mol}$$, $$H_2$$ (g) $$=$$ $$0$$ $$\\frac{kJ}{mol}$$, and $$C_2 H_6$$ (g) $$=$$ $$-84.68$$ $$\\frac{kJ}{mol}$$.",
-    "body": "Show your work for all the problems and save the document. You will be asked to submit the work for credit. Please complete the entire module in a single sitting.\\n For each answer input box, enter only a numeric response without commas, units, or additional formatting.", "",
+    "body": "Show your work for all the problems and save the document. You will be asked to submit the work for credit. Please complete the entire module in a single sitting.\\n For each answer input box, enter only a numeric response without commas, units, or additional formatting.",
     "variabilization": {},
     "oer": "https://openstax.org/details/books/chemistry-2e <OpenStax: Chemistry>",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
