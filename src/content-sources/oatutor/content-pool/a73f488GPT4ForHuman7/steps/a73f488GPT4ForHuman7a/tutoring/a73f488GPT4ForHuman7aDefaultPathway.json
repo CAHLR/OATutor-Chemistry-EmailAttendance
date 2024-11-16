@@ -33,7 +33,7 @@
             "a73f488GPT4ForHuman7a-h2"
         ],
         "title": "Calculate \u0394H\u00b0 for Conversion",
-        "text": "\u0394H\u00b0 for the conversion of ozone to O\u2082 can be found using:\\n\u0394H\u00b0 $$=$$ \u0394H\u00b0_f(O\u2082) - \u0394H\u00b0_f(O\u2083).\\nGiven \u0394H\u00b0_f(O\u2082) $$=$$ $$0$$ $$\\frac{kJ}{mol}$$ and \u0394H\u00b0_f(O\u2083) $$=$$ $$142.67$$ $$\\frac{kJ}{mol}$$.",
+        "text": "\u0394H\u00b0 for the conversion of ozone to O\u2082 can be found using:\\n\u0394H\u00b0 $$=$$ \u0394$$H_f$$\u00b0(O\u2082) - \u0394$$H_f$$\u00b0(O\u2083).\\nGiven \u0394$$H_f$$\u00b0(O\u2082) $$=$$ $$0$$ $$\\frac{kJ}{mol}$$ and \u0394$$H_f$$\u00b0(O\u2083) $$=$$ $$142.67$$ $$\\frac{kJ}{mol}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

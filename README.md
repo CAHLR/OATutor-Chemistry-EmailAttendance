@@ -345,7 +345,7 @@ content-sources/
 {
     "id": "circle1",
     "title": "Buying a Big Rug",
-    "body": "Bob wants to surprise Alice by buying a new rug for their living room. Their living room is 28 feet wide and 20 feet long. To further surprise Alice, Bob wants to buy the biggest circular rug that will fit.",
+    "body": "Show your work for all the problems and save the document. You will be asked to submit the work for credit. Please complete the entire module in a single sitting.\\n For each answer input box, enter only a numeric response without commas, units, or additional formatting.", "Bob wants to surprise Alice by buying a new rug for their living room. Their living room is 28 feet wide and 20 feet long. To further surprise Alice, Bob wants to buy the biggest circular rug that will fit.",
     "variabilization": {},
     "oer": "https://example.com",
     "lesson": "1.1 Circle Radius",
@@ -409,7 +409,7 @@ content-sources/
 {
     "id": "pythag1", //Substeps will be in the form problem.id + 'a' and so on
     "title": "Car Forces",
-    "body": "A %CAR% experiences three horizontal forces of -3.10N, 1.70N and -4.00N. It also experiences three vertical forces of -4.30N, 0.20N and 4.20N. \\n Round all answers to the hundredths place. \\n##triangle.png## ",
+    "body": "Show your work for all the problems and save the document. You will be asked to submit the work for credit. Please complete the entire module in a single sitting.\\n For each answer input box, enter only a numeric response without commas, units, or additional formatting.", "A %CAR% experiences three horizontal forces of -3.10N, 1.70N and -4.00N. It also experiences three vertical forces of -4.30N, 0.20N and 4.20N. \\n Round all answers to the hundredths place. \\n##triangle.png## ",
     "variabilization": {}
 }
 ```

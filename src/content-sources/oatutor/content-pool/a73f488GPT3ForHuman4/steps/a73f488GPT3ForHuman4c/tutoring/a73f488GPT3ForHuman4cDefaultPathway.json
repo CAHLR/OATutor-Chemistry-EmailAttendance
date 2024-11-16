@@ -45,7 +45,7 @@
             "a73f488GPT3ForHuman4c-h3"
         ],
         "title": "Calculating Standard Enthalpy Change",
-        "text": "Calculate the standard enthalpy change \u0394H\u00b0 using the heats of formation in $$\\frac{kJ}{mol}$$:\\n[\u0394H\u00b0 $$=$$ \u0394H\u00b0_f(C_2H_6) - (\u0394H\u00b0_f(C_2H_4) + \u0394H\u00b0_f(H_2))]",
+        "text": "Calculate the standard enthalpy change \u0394H\u00b0 using the heats of formation in $$\\frac{kJ}{mol}$$:\\n[\u0394H\u00b0 $$=$$ \u0394$$H_f$$\u00b0(C_2H_6) - (\u0394$$H_f$$\u00b0(C_2H_4) + \u0394$$H_f$$\u00b0(H_2))]",
         "variabilization": {},
         "oer": "",
         "license": ""

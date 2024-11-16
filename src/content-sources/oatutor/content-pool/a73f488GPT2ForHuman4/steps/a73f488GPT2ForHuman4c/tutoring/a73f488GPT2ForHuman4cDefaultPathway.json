@@ -16,7 +16,7 @@
             "a73f488GPT2ForHuman4c-h1"
         ],
         "title": "Determine \u2206H for the Reaction",
-        "text": "The equation for the reaction's enthalpy change (\u2206H) at 298K is: \u2206H=\u2206H\u00b0_f(products)-\u2206H\u00b0_f(reactants). For C(s)+H_2O(g)\u21ccCO(g)+H_2(g), calculate \u2206H using values:\\n\\n\u2206H\u00b0_f(H_2O(g)) $$=$$ $$-241.8$$ $$\\frac{kJ}{mol}$$\\n\u2206H\u00b0_f(CO(g)) $$=$$ $$-110.5$$ $$\\frac{kJ}{mol}$$",
+        "text": "The equation for the reaction's enthalpy change (\u2206H) at 298K is: \u2206H=\u2206$$H_f$$\u00b0(products)-\u2206$$H_f$$\u00b0(reactants). For C(s)+H_2O(g)\u21ccCO(g)+H_2(g), calculate \u2206H using values:\\n\\n\u2206$$H_f$$\u00b0(H_2O(g)) $$=$$ $$-241.8$$ $$\\frac{kJ}{mol}$$\\n\u2206$$H_f$$\u00b0(CO(g)) $$=$$ $$-110.5$$ $$\\frac{kJ}{mol}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a73f488GPT2ForHuman4c-h2"
         ],
         "title": "Calculate \u2206H for the Reaction",
-        "text": "Calculate \u2206H using \u2206H=\u2206H\u00b0_f(CO)+\u2206H\u00b0_f(H_2)-\u2206H\u00b0_f(H_2O):\\n$$\u2206H=-110.5$$ + $$0$$ - $$(-241.8)$$",
+        "text": "Calculate \u2206H using \u2206H=\u2206$$H_f$$\u00b0(CO)+\u2206$$H_f$$\u00b0(H_2)-\u2206$$H_f$$\u00b0(H_2O):\\n$$\u2206H=-110.5$$ + $$0$$ - $$(-241.8)$$",
         "variabilization": {},
         "oer": "",
         "license": ""

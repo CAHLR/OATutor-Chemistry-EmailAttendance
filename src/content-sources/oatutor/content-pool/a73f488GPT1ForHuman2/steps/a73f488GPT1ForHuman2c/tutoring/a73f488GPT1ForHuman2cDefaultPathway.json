@@ -28,7 +28,7 @@
             "a73f488GPT1ForHuman2c-h2"
         ],
         "title": "Unit Conversion",
-        "text": "Since \u0394H is given in $$\\frac{kJ}{mol}$$ and \u0394S in J/K*mol., convert \u0394S into kJ by dividing by $$1000$$ before calculating \u0394G.",
+        "text": "Since \u0394H is given in $$\\frac{kJ}{mol}$$ and \u0394S in $$\\frac{J}{K\u00b7mol}$$, convert \u0394S into kJ by dividing by $$1000$$ before calculating \u0394G.",
         "variabilization": {},
         "oer": "",
         "license": ""

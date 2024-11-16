@@ -52,7 +52,7 @@
             "a73f488GPT1ForHuman4c-h4"
         ],
         "title": "Perform Calculation to Determine T",
-        "text": "Use the known values, $$\u2206G=$$ $$-33.30$$ $$\\frac{kJ}{mol}$$ and \u2206H(which is \u2206H\u00b0_f) $$=$$ $$-45.90$$ $$\\frac{kJ}{mol}$$, and substitute them into the equation:\\nT=\u2206H/\u2206S\\nFirst, calculate \u2206S using \u2206G $$=$$ \u2206H-T \u00d7 \u2206S.",
+        "text": "Use the known values, $$\u2206G=$$ $$-33.30$$ $$\\frac{kJ}{mol}$$ and \u2206H(which is \u2206$$H_f$$\u00b0) $$=$$ $$-45.90$$ $$\\frac{kJ}{mol}$$, and substitute them into the equation:\\nT=\u2206H/\u2206S\\nFirst, calculate \u2206S using \u2206G $$=$$ \u2206H-T \u00d7 \u2206S.",
         "variabilization": {},
         "oer": "",
         "license": ""

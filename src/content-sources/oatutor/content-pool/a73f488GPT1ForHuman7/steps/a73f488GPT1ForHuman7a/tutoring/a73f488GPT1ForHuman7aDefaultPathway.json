@@ -16,7 +16,7 @@
             "a73f488GPT1ForHuman7a-h1"
         ],
         "title": "Thermodynamic Stability Indicators",
-        "text": "The stability of a substance is often determined by enthalpy (\u0394H\u00b0_f) and entropy (S\u00b0) values at standard conditions (298 K).",
+        "text": "The stability of a substance is often determined by enthalpy (\u0394$$H_f$$\u00b0) and entropy (S\u00b0) values at standard conditions (298 K).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,19 +27,19 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "\u0394H\u00b0_f(rhombic sulfur)<\u0394H\u00b0_f(monoclinic sulfur)"
+            "\u0394$$H_f$$\u00b0(rhombic sulfur)<\u0394$$H_f$$\u00b0(monoclinic sulfur)"
         ],
         "dependencies": [
             "a73f488GPT1ForHuman7a-h2"
         ],
         "title": "Comparing Enthalpy Values",
-        "text": "The enthalpy of formation (\u0394H\u00b0_f) indicates how much energy is released or absorbed when a compound forms from its elements. Compare the \u0394H\u00b0_f values for rhombic sulfur and monoclinic sulfur.",
+        "text": "The enthalpy of formation (\u0394$$H_f$$\u00b0) indicates how much energy is released or absorbed when a compound forms from its elements. Compare the \u0394$$H_f$$\u00b0 values for rhombic sulfur and monoclinic sulfur.",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "\u0394H\u00b0_f(rhombic sulfur)<\u0394H\u00b0_f(monoclinic sulfur)",
-            "\u0394H\u00b0_f(rhombic sulfur)>\u0394H\u00b0_f(monoclinic sulfur)"
+            "\u0394$$H_f$$\u00b0(rhombic sulfur)<\u0394$$H_f$$\u00b0(monoclinic sulfur)",
+            "\u0394$$H_f$$\u00b0(rhombic sulfur)>\u0394$$H_f$$\u00b0(monoclinic sulfur)"
         ]
     },
     {
@@ -70,7 +70,7 @@
             "a73f488GPT1ForHuman7a-h4"
         ],
         "title": "Combining Enthalpy and Entropy",
-        "text": "When both enthalpy and entropy are considered, the substance with the lower \u0394H\u00b0_f and similar S\u00b0 is often more stable at standard conditions.",
+        "text": "When both enthalpy and entropy are considered, the substance with the lower \u0394$$H_f$$\u00b0 and similar S\u00b0 is often more stable at standard conditions.",
         "variabilization": {},
         "oer": "",
         "license": ""

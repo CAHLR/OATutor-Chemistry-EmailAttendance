@@ -16,7 +16,7 @@
             "a73f488Human7a-h1"
         ],
         "title": "Calculate Gibbs Free Energy for White Phosphorus",
-        "text": "Use the formula \u0394G\u00b0_{white} $$=$$ \u0394H\u00b0_f_{(white)} - T \u00d7 S\u00b0_{(white)} to find the Gibbs free energy of white phosphorus.",
+        "text": "Use the formula \u0394G\u00b0_{white} $$=$$ \u0394$$H_f$$\u00b0_{(white)} - T \u00d7 S\u00b0_{(white)} to find the Gibbs free energy of white phosphorus.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a73f488Human7a-h3"
         ],
         "title": "Calculate Gibbs Free Energy for Red Phosphorus",
-        "text": "Now, calculate \u0394G\u00b0_{red} $$=$$ \u0394H\u00b0_f_{(red)} - T \u00d7 S\u00b0_{(red)} to determine the Gibbs free energy of red phosphorus.",
+        "text": "Now, calculate \u0394G\u00b0_{red} $$=$$ \u0394$$H_f$$\u00b0_{(red)} - T \u00d7 S\u00b0_{(red)} to determine the Gibbs free energy of red phosphorus.",
         "variabilization": {},
         "oer": "",
         "license": ""

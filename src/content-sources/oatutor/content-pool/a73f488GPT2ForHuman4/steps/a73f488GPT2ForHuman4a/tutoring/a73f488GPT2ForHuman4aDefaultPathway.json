@@ -33,7 +33,7 @@
             "a73f488GPT2ForHuman4a-h2"
         ],
         "title": "Calculate the Enthalpy Change (\u2206H\u00b0)",
-        "text": "Use the enthalpy of formation values to determine \u2206H\u00b0 for the reaction:\\n\\n\u2206H\u00b0 $$=$$ \u2206H\u00b0_f (CO(g)) + \u2206H\u00b0_f $$\\operatorname{H_2}\\left(g\\right)$$ - [\u2206H\u00b0_f (C(s)) + \u2206H\u00b0_f (H_2O(g))]",
+        "text": "Use the enthalpy of formation values to determine \u2206H\u00b0 for the reaction:\\n\\n\u2206H\u00b0 $$=$$ \u2206$$H_f$$\u00b0 (CO(g)) + \u2206$$H_f$$\u00b0 $$\\operatorname{H_2}\\left(g\\right)$$ - [\u2206$$H_f$$\u00b0 (C(s)) + \u2206$$H_f$$\u00b0 (H_2O(g))]",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "\u2206S\u00b0=(\u2206H\u00b0-\u2206G\u00b0)/T"
+            "\u2206S\u00b0=$$\\frac{\\Delta H^\\degree-\\Delta G^\\degree}{T}$$"
         ],
         "dependencies": [
             "a73f488GPT1ForHuman4a-h1"
@@ -26,10 +26,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "\u2206S\u00b0=(\u2206H\u00b0-\u2206G\u00b0)/T",
-            "\u2206S\u00b0=(\u2206G\u00b0-\u2206H\u00b0)/T",
-            "$$\u2206S\\degree=(\u2206H\\degree-\u2206G\\degree)T$$",
-            "\u2206S\u00b0=T/(\u2206H\u00b0-\u2206G\u00b0)"
+            "\u2206S\u00b0=$$\\frac{\\Delta H^\\degree-\\Delta G^\\degree}{T}$$",
+            "\u2206S\u00b0=$$\\frac{\\Delta G^\\degree-\\Delta H^\\degree}{T}$$",
+            "\u2206S\u00b0=$$(\\Delta H^\\degree-\\Delta G^\\degree)T$$",
+            "\u2206S\u00b0=$$\\frac{T}{\\Delta H^\\degree-\\Delta G^\\degree}$$"
         ]
     },
     {

@@ -28,7 +28,7 @@
             "a73f488GPT2ForHuman2c-h2"
         ],
         "title": "Substituting given values",
-        "text": "Given that $$\u0394H=40.67$$ $$\\frac{kJ}{mol}$$ and $$\u0394S=109.3$$ J/K\u2022mol (convert this to kJ/K\u2022mol for consistency), and $$T=350$$ K, substitute these values into the formula for \u0394G.",
+        "text": "Given that $$\u0394H=40.67$$ $$\\frac{kJ}{mol}$$ and $$\u0394S=109.3$$ $$\\frac{J}{K\u00b7mol}$$ (convert this to kJ/K\u2022mol for consistency), and $$T=350$$ K, substitute these values into the formula for \u0394G.",
         "variabilization": {},
         "oer": "",
         "license": ""

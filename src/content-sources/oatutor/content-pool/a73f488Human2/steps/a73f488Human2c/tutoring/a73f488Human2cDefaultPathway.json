@@ -33,7 +33,7 @@
             "a73f488Human2c-h2"
         ],
         "title": "Determine Enthalpy and Entropy",
-        "text": "Given the enthalpy of fusion (\u0394H_{fusion}) is $$5.65$$ $$\\frac{kJ}{mol}$$ and the entropy of fusion (\u0394S_{fusion}) is $$28.9$$ J/K*mol., convert \u0394H_{fusion} to $$\\frac{J}{mol}$$ for consistency.",
+        "text": "Given the enthalpy of fusion (\u0394$$H_{fusion}$$) is $$5.65$$ $$\\frac{kJ}{mol}$$ and the entropy of fusion (\u0394$$S_{fusion}$$) is $$28.9$$ $$\\frac{J}{K\u00b7mol}$$, convert \u0394$$H_{fusion}$$ to $$\\frac{J}{mol}$$ for consistency.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a73f488Human2c-h3"
         ],
         "title": "Calculate \u0394G for Ammonia at 170K",
-        "text": "Using the formula $$\u0394G=\u0394H-T$$ \u00d7 \u0394S, calculate \u0394G at $$170$$ K. Use \u0394H_{fusion} $$=$$ $$5650$$ $$\\frac{J}{mol}$$ and \u0394S_{fusion} $$=$$ $$28.9$$ $$\\frac{J}{K} mol$$.",
+        "text": "Using the formula $$\u0394G=\u0394H-T$$ \u00d7 \u0394S, calculate \u0394G at $$170$$ K. Use \u0394$$H_{fusion}$$ $$=$$ $$5650$$ $$\\frac{J}{mol}$$ and \u0394$$S_{fusion}$$ $$=$$ $$28.9$$ $$\\frac{J}{K} mol$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

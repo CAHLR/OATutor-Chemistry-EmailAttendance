@@ -9,7 +9,7 @@
         ],
         "dependencies": [],
         "title": "Calculate the Change in Enthalpy",
-        "text": "Using the standard heats of formation for the reactants and products, calculate the standard enthalpy change, \u0394H\u00b0 , for the reaction. \u0394H\u00b0 $$=$$ \u2211products \u0394H_f\u00b0 - \u2211reactants \u0394H_f\u00b0 . Hint: Use the provided values.",
+        "text": "Using the standard heats of formation for the reactants and products, calculate the standard enthalpy change, \u0394H\u00b0 , for the reaction. \u0394H\u00b0 $$=$$ \u2211products \u0394$$H_f$$\u00b0 - \u2211reactants \u0394$$H_f$$\u00b0 . Hint: Use the provided values.",
         "variabilization": {},
         "oer": "",
         "license": ""

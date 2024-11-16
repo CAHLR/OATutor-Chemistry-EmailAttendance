@@ -50,7 +50,7 @@
             "a73f488GPT3ForHuman2c-h3"
         ],
         "title": "Calculate TS",
-        "text": "Calculate the product of the temperature T (279K) and the converted entropy S $$(0.0357$$ kJ/K*mol).",
+        "text": "Calculate the product of the temperature T (279K) and the converted entropy S $$(0.0357$$ $$\\frac{kJ}{K\u00b7mol}$$).",
         "variabilization": {},
         "oer": "",
         "license": ""

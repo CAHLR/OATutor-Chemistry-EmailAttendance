@@ -4,7 +4,7 @@
         "Gaseous $$Cl_2$$ is more stable"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Chlorine can exist in two forms, gaseous $$Cl_2$$ and solid $$Cl_2$$. Given the following standard entropies and enthalpies of formation, use the Gibbs free energy formula to determine which form of chlorine is more thermodynamically stable at $$298$$ K:\\n\\n$$Cl_2$$ (gas): \u0394H\u00b0_f $$=$$ $$0$$ $$\\frac{kJ}{mol}$$, S\u00b0 $$=$$ $$223.08$$ $$\\frac{J}{mol\u00b7K}$$\\n$$Cl_2$$ (solid): \u0394H\u00b0_f $$=$$ $$-6.4$$ $$\\frac{kJ}{mol}$$, S\u00b0 $$=$$ $$50.00$$ $$\\frac{J}{mol\u00b7K}$$",
+    "stepTitle": "Chlorine can exist in two forms, gaseous $$Cl_2$$ and solid $$Cl_2$$. Given the following standard entropies and enthalpies of formation, use the Gibbs free energy formula to determine which form of chlorine is more thermodynamically stable at $$298$$ K:\\n\\n$$Cl_2$$ (gas): \u0394$$H_f$$\u00b0 $$=$$ $$0$$ $$\\frac{kJ}{mol}$$, S\u00b0 $$=$$ $$223.08$$ $$\\frac{J}{mol\u00b7K}$$\\n$$Cl_2$$ (solid): \u0394$$H_f$$\u00b0 $$=$$ $$-6.4$$ $$\\frac{kJ}{mol}$$, S\u00b0 $$=$$ $$50.00$$ $$\\frac{J}{mol\u00b7K}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

@@ -374,6 +374,8 @@ class Platform extends React.Component {
             `Platform.js: available problems ${problems.length}, completed problems ${this.completedProbs.size}`
         );
         chosenProblem = context.heuristic(problems, this.completedProbs);
+        const targetId = "a73f488Human4";
+        chosenProblem = problems.find(problem => problem.id === targetId)
         console.debug("Platform.js: chosen problem", chosenProblem);
 
         const objectives = Object.keys(this.lesson.learningObjectives);
