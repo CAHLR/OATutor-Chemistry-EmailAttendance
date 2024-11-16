@@ -16,7 +16,7 @@
             "a73f488Human2c-h1"
         ],
         "title": "Gibbs Free Energy Formula",
-        "text": "Recall the formula for Gibbs Free Energy: $$\u0394G=\\Delta H-T \\Delta S$$, where \u0394H is enthalpy change, T is temperature in Kelvin, and \u0394S is entropy change.",
+        "text": "Recall the formula for Gibbs Free Energy: $$\u0394G=\u0394H-T$$ \u00d7 \u0394S, where \u0394H is enthalpy change, T is temperature in Kelvin, and \u0394S is entropy change.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a73f488Human2c-h3"
         ],
         "title": "Calculate \u0394G for Ammonia at 170K",
-        "text": "Using the formula $$\u0394G=\\Delta H-T \\Delta S$$, calculate \u0394G at $$170$$ K. Use \u0394H_{fusion} $$=$$ $$5650$$ $$\\frac{J}{mol}$$ and \u0394S_{fusion} $$=$$ $$28.9$$ $$\\frac{J}{K} mol$$.",
+        "text": "Using the formula $$\u0394G=\u0394H-T$$ \u00d7 \u0394S, calculate \u0394G at $$170$$ K. Use \u0394H_{fusion} $$=$$ $$5650$$ $$\\frac{J}{mol}$$ and \u0394S_{fusion} $$=$$ $$28.9$$ $$\\frac{J}{K} mol$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -62,7 +62,7 @@
             "a73f488Human2c-h4"
         ],
         "title": "Solve for \u0394G",
-        "text": "Calculate the value of \u0394G from the previous step: $$\u0394G=5650-170\\times28.9$$.",
+        "text": "Calculate the value of \u0394G from the previous step: $$\u0394G=5650-170$$ \u00d7 $$28.9$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

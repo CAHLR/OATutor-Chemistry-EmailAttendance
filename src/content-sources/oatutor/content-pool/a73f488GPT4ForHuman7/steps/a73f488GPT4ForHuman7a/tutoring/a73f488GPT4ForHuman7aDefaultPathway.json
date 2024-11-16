@@ -69,7 +69,7 @@
             "a73f488GPT4ForHuman7a-h5"
         ],
         "title": "Calculate \u0394G\u00b0 at $$298$$ K",
-        "text": "Use the formula:\\n\u0394G $$=$$ \u0394H - T\u0394S\\n$$=$$ $$(-142.67)$$ - $$298$$ * (\u0394S calculated).",
+        "text": "Use the formula:\\n\u0394G $$=$$ \u0394H - T\u0394S\\n$$=$$ $$(-142.67)$$ - $$298$$ \u00d7 (\u0394S calculated).",
         "variabilization": {},
         "oer": "",
         "license": ""

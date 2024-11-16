@@ -16,7 +16,7 @@
             "a73f488GPT2ForHuman7a-h1"
         ],
         "title": "Calculate Gibbs Free Energy for White Tin",
-        "text": "Calculate the Gibbs Free Energy: \u0394G=\u0394H\u00b0_f-T*S\u00b0 using the data for white tin $$(\u03b2-form)$$.",
+        "text": "Calculate the Gibbs Free Energy: \u0394G=\u0394H\u00b0_f-T \u00d7 S\u00b0 using the data for white tin $$(\u03b2-form)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

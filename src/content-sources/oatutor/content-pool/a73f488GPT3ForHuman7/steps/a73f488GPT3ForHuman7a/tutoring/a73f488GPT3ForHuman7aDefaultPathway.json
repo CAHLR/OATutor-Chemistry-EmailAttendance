@@ -16,7 +16,7 @@
             "a73f488GPT3ForHuman7a-h1"
         ],
         "title": "Calculating Gibbs Free Energy for Yellow Sulfur",
-        "text": "For yellow sulfur:\\n\\n\u0394H\u00b0_f $$=$$ $$0$$ $$\\frac{kJ}{mol}$$\\nS\u00b0 $$=$$ $$31.88$$ $$\\frac{J}{mol\u00b7K}$$ $$=$$ $$0.03188$$ $$\\frac{kJ}{mol\u00b7K}$$\\n\\nSubstituting these values into the Gibbs free energy equation:\\n\u0394G $$=$$ $$0$$ - $$298\\times0.03188$$",
+        "text": "For yellow sulfur:\\n\\n\u0394H\u00b0_f $$=$$ $$0$$ $$\\frac{kJ}{mol}$$\\nS\u00b0 $$=$$ $$31.88$$ $$\\frac{J}{mol\u00b7K}$$ $$=$$ $$0.03188$$ $$\\frac{kJ}{mol\u00b7K}$$\\n\\nSubstituting these values into the Gibbs free energy equation:\\n\u0394G $$=$$ $$0$$ - $$298$$ \u00d7 $$0.03188$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a73f488GPT3ForHuman7a-h2"
         ],
         "title": "Calculating \u0394G for Yellow Sulfur",
-        "text": "Calculate \u0394G for yellow sulfur using:\\n\u0394G $$=$$ $$0$$ - $$298\\times0.03188$$",
+        "text": "Calculate \u0394G for yellow sulfur using:\\n\u0394G $$=$$ $$0$$ - $$298$$ \u00d7 $$0.03188$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a73f488GPT3ForHuman7a-h3"
         ],
         "title": "Calculating Gibbs Free Energy for Monoclinic Sulfur",
-        "text": "For monoclinic sulfur:\\n\\n\u0394H\u00b0_f $$=$$ $$0.30$$ $$\\frac{kJ}{mol}$$\\nS\u00b0 $$=$$ $$32.60$$ $$\\frac{J}{mol\u00b7K}$$ $$=$$ $$0.03260$$ $$\\frac{kJ}{mol\u00b7K}$$\\n\\nSubstituting these values into the Gibbs free energy equation:\\n\u0394G $$=$$ $$0.30$$ - $$298\\times0.0326$$",
+        "text": "For monoclinic sulfur:\\n\\n\u0394H\u00b0_f $$=$$ $$0.30$$ $$\\frac{kJ}{mol}$$\\nS\u00b0 $$=$$ $$32.60$$ $$\\frac{J}{mol\u00b7K}$$ $$=$$ $$0.03260$$ $$\\frac{kJ}{mol\u00b7K}$$\\n\\nSubstituting these values into the Gibbs free energy equation:\\n\u0394G $$=$$ $$0.30$$ - $$298$$ \u00d7 $$0.03260$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -62,7 +62,7 @@
             "a73f488GPT3ForHuman7a-h4"
         ],
         "title": "Calculating \u0394G for Monoclinic Sulfur",
-        "text": "Calculate \u0394G for monoclinic sulfur using:\\n\u0394G $$=$$ $$0.30$$ - $$298\\times0.0326$$",
+        "text": "Calculate \u0394G for monoclinic sulfur using:\\n\u0394G $$=$$ $$0.30$$ - $$298$$ \u00d7 $$0.03260$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -85,7 +85,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "Yellow sulfur is more stable"
+            "Yellow sulfur is more stable."
         ],
         "dependencies": [
             "a73f488GPT3ForHuman7a-h6"

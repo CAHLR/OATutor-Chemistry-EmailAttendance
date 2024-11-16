@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Start by Using Gibbs Free Energy Equation",
-        "text": "To find the temperature at which this reaction becomes non-spontaneous, you can use the Gibbs Free Energy equation:\\n$$G=H-T S$$.",
+        "text": "To find the temperature at which this reaction becomes non-spontaneous, you can use the Gibbs Free Energy equation:\\n$$G=H-T$$ \u00d7 S.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "a73f488GPT1ForHuman4c-h2"
         ],
         "title": "Relate Gibbs Equation to Equilibrium",
-        "text": "For $$G=0$$, the equation simplifies to:\\n$$0=H-T S$$.\\nRearrrange the equation to find T.",
+        "text": "For $$G=0$$, the equation simplifies to:\\n$$0=H-T$$ \u00d7 S.\\nRearrrange the equation to find T.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -52,7 +52,7 @@
             "a73f488GPT1ForHuman4c-h4"
         ],
         "title": "Perform Calculation to Determine T",
-        "text": "Use the known values, $$\u2206G=$$ $$-33.30$$ $$\\frac{kJ}{mol}$$ and \u2206H(which is \u2206H\u00b0_f) $$=$$ $$-45.90$$ $$\\frac{kJ}{mol}$$, and substitute them into the equation:\\nT=\u2206H/\u2206S\\nFirst, calculate \u2206S using \u2206G $$=$$ \u2206H-T*\u2206S.",
+        "text": "Use the known values, $$\u2206G=$$ $$-33.30$$ $$\\frac{kJ}{mol}$$ and \u2206H(which is \u2206H\u00b0_f) $$=$$ $$-45.90$$ $$\\frac{kJ}{mol}$$, and substitute them into the equation:\\nT=\u2206H/\u2206S\\nFirst, calculate \u2206S using \u2206G $$=$$ \u2206H-T \u00d7 \u2206S.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -64,7 +64,7 @@
             "a73f488GPT1ForHuman4c-h5"
         ],
         "title": "Calculate the Gibbs at Equilibrium",
-        "text": "Calculate \u2206S by setting \u2206G \u2248 $$0$$ at the equilibrium temperature to find the equation:\\n0=\u2206H-T*\u2206S",
+        "text": "Calculate \u2206S by setting \u2206G \u2248 $$0$$ at the equilibrium temperature to find the equation:\\n$$0=\u2206H-T$$ \u00d7 \u2206S",
         "variabilization": {},
         "oer": "",
         "license": ""

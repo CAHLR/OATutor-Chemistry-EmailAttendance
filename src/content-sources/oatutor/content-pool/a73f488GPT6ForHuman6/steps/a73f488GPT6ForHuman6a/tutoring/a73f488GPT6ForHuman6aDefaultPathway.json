@@ -16,7 +16,7 @@
             "a73f488GPT6ForHuman6a-h1"
         ],
         "title": "Formula for Gibbs Free Energy",
-        "text": "Recall the formula for Gibbs Free Energy change:\\n\u0394G $$=$$ \u0394H - $$T \\Delta S$$\\nWhere:\\n- \u0394H is the enthalpy change $$(-92.4$$ kJ/mol),\\n- \u0394S is the entropy change $$(-198.3$$ J/mol\u00b7K),\\n- T is the temperature in Kelvin.",
+        "text": "Recall the formula for Gibbs Free Energy change:\\n\u0394G $$=$$ \u0394H - T \u00d7 \u0394S\\nWhere:\\n- \u0394H is the enthalpy change $$(-92.4$$ kJ/mol),\\n- \u0394S is the entropy change $$(-198.3$$ J/mol\u00b7K),\\n- T is the temperature in Kelvin.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "a73f488GPT6ForHuman6a-h2"
         ],
         "title": "Finding the Temperature for Spontaneity",
-        "text": "For the reaction to be spontaneous, \u0394G must be negative. Therefore, set the inequality:\\n\u0394G < $$0$$\\nThis implies:\\n\u0394H - $$T \\Delta S$$ < $$0$$",
+        "text": "For the reaction to be spontaneous, \u0394G must be negative. Therefore, set the inequality:\\n\u0394G < $$0$$\\nThis implies:\\n\u0394H - T \u00d7 \u0394S < $$0$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -40,7 +40,7 @@
             "a73f488GPT6ForHuman6a-h3"
         ],
         "title": "Solving for Temperature (T)",
-        "text": "Solve the inequality:\\n\u0394H - $$T \\Delta S$$ < $$0$$\\nBy rearranging the terms, find the temperature T for which the reaction becomes spontaneous.",
+        "text": "Solve the inequality:\\n\u0394H - T \u00d7 \u0394S < $$0$$\\nBy rearranging the terms, find the temperature T for which the reaction becomes spontaneous.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -57,7 +57,7 @@
             "a73f488GPT6ForHuman6a-h4"
         ],
         "title": "Calculation Verification",
-        "text": "Plug the given values into the inequality:\\n- Convert \u0394H from kJ to J (\u0394H $$=$$ $$-92400$$ J/mol)\\n- \u0394S $$=$$ $$-198.3$$ $$\\frac{J}{mol\u00b7K}$$\\n- Solve for T:\\n$$(-92400)$$ - $$T \\left(-198.3\\right)$$ < $$0$$\\nSimplify to find the critical temperature.",
+        "text": "Plug the given values into the inequality:\\n- Convert \u0394H from kJ to J (\u0394H $$=$$ $$-92400$$ J/mol)\\n- \u0394S $$=$$ $$-198.3$$ $$\\frac{J}{mol\u00b7K}$$\\n- Solve for T:\\n$$(-92400)$$ - T \u00d7 $$(-198.3)$$ < $$0$$\\nSimplify to find the critical temperature.",
         "variabilization": {},
         "oer": "",
         "license": "",

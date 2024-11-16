@@ -45,7 +45,7 @@
             "a73f488GPT3ForHuman2b-h3"
         ],
         "title": "Perform the Calculation",
-        "text": "First, perform the multiplication:\\n\\n$$279$$ * $$35.7$$",
+        "text": "First, perform the multiplication:\\n\\n$$279$$ \u00d7 $$35.7$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -86,7 +86,7 @@
             "a73f488GPT3ForHuman2b-h6"
         ],
         "title": "Calculate \u0394G for $$2.50$$ Moles",
-        "text": "Multiply the result from \u0394G for $$1$$ mole by $$2.50$$:\\n\\n$$2.50$$ * $$(-90.3)$$",
+        "text": "Multiply the result from \u0394G for $$1$$ mole by $$2.50$$:\\n\\n$$2.50$$ \u00d7 $$(-90.3)$$",
         "variabilization": {},
         "oer": "",
         "license": ""

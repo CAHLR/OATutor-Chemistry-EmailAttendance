@@ -45,7 +45,7 @@
             "a73f488GPT2ForHuman2b-h3"
         ],
         "title": "Calculate \u0394G for $$1$$ mol of Water",
-        "text": "Substitute the values into the Gibbs energy formula:\u0394G $$=$$ $$40670$$ - $$350\\times109.3$$ .",
+        "text": "Substitute the values into the Gibbs energy formula:\u0394G $$=$$ $$40670$$ - $$350$$ \u00d7 $$109.3$$ .",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -74,7 +74,7 @@
             "a73f488GPT2ForHuman2b-h5"
         ],
         "title": "Final Calculation for \u0394G of $$2.50$$ mol",
-        "text": "Using the result for $$1$$ mol: $$2415\\times2.5$$.",
+        "text": "Using the result for $$1$$ mol: $$2415$$ \u00d7 $$2.50$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

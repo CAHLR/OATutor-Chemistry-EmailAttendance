@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identify the Components of the Gibbs Free Energy Equation",
-        "text": "To compute the temperature at which the reaction becomes spontaneous, we use the Gibbs free energy equation: \u2206G=\u2206H-T*\u2206S. Rearrange it to find T when $$\u2206G=0$$: T=\u2206H/\u2206S.",
+        "text": "To compute the temperature at which the reaction becomes spontaneous, we use the Gibbs free energy equation: $$\u2206G=\u2206H-T$$ \u00d7 \u2206S. Rearrange it to find T when $$\u2206G=0$$: T=\u2206H/\u2206S.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a73f488GPT2ForHuman4c-h3"
         ],
         "title": "Calculate \u2206S for the Reaction",
-        "text": "Since \u2206G=\u2206H-T*\u2206S, rearrange to find \u2206S when $$\u2206G=0$$.\\n\\n\u2206S=\u2206H\u00b0/T for the reaction when T makes $$\u2206G=0$$, with given $$\u2206G\\degree=110.5$$ $$\\frac{kJ}{mol}$$ and the calculated \u2206H.",
+        "text": "Since $$\u2206G=\u2206H-T$$ \u00d7 \u2206S, rearrange to find \u2206S when $$\u2206G=0$$.\\n\\n\u2206S=\u2206H\u00b0/T for the reaction when T makes $$\u2206G=0$$, with given $$\u2206G\\degree=110.5$$ $$\\frac{kJ}{mol}$$ and the calculated \u2206H.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -62,7 +62,7 @@
             "a73f488GPT2ForHuman4c-h4"
         ],
         "title": "Calculate \u2206S",
-        "text": "Calculate \u2206S using:\\n\u2206G=\u2206H-T*\u2206S\\n110.5=131.3-T*\u2206S\\nSolve for \u2206S assuming $$T=298K$$.",
+        "text": "Calculate \u2206S using:\\n$$\u2206G=\u2206H-T$$ \u00d7 \u2206S\\n$$110.5=131.3-T$$ \u00d7 \u2206S\\nSolve for \u2206S assuming $$T=298K$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -50,7 +50,7 @@
             "a73f488Human2b-h3"
         ],
         "title": "Calculation Setup",
-        "text": "Substitute the given values into the Gibbs free energy equation:\\n\u0394G $$=$$ $$(5.65$$ $$\\frac{kJ}{mol}$$ * 1000) - (170 K * $$28.9$$ J/(K\u00b7mol))\\nSimplify the equation by first multiplying (170 K * $$28.9$$ J/(K\u00b7mol)).",
+        "text": "Substitute the given values into the Gibbs free energy equation:\\n\u0394G $$=$$ $$(5.65$$ $$\\frac{kJ}{mol}$$ \u00d7 1000) - (170 K \u00d7 $$28.9$$ J/(K\u00b7mol))\\nSimplify the equation by first multiplying (170 K \u00d7 $$28.9$$ J/(K\u00b7mol)).",
         "variabilization": {},
         "oer": "",
         "license": ""

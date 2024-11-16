@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Analyzing Spontaneity Conditions",
-        "text": "To find under what conditions a reaction is spontaneous, you need to use Gibbs free energy equation: $$\u0394G=\\Delta H-T \\Delta S$$. The reaction is spontaneous when $$\\Delta G<0$$.",
+        "text": "To find under what conditions a reaction is spontaneous, you need to use Gibbs free energy equation: $$\u0394G=\u0394H-T$$ \u00d7 \u0394S. The reaction is spontaneous when $$\\Delta G<0$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "a73f488GPT4ForHuman6a-h2"
         ],
         "title": "Equation Setup to Determine Temperature",
-        "text": "Set up the equation for spontaneity $$\u0394G=\\Delta H-T \\Delta S$$ and solve for T when $$\\Delta G<0$$.",
+        "text": "Set up the equation for spontaneity $$\u0394G=\u0394H-T$$ \u00d7 \u0394S and solve for T when $$\\Delta G<0$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

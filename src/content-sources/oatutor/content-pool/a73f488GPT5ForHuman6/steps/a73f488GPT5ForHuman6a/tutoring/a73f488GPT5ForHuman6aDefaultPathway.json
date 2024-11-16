@@ -16,7 +16,7 @@
             "a73f488GPT5ForHuman6a-h1"
         ],
         "title": "Plugging values into the Gibbs equation",
-        "text": "Using the equation \u0394G $$=$$ \u0394H - T\u0394S, we can plug in the values provided:\\n\\n\u0394G $$=$$ $$92.22$$ - $$T \\left(-\\frac{198.5}{1000}\\right)$$\\n\\nConvert the change in entropy (\u0394S) from $$\\frac{J}{mol\u00b7K}$$ to $$\\frac{kJ}{mol\u00b7K}$$, since \u0394H is given in $$\\frac{kJ}{mol}$$.",
+        "text": "Using the equation \u0394G $$=$$ \u0394H - T\u0394S, we can plug in the values provided:\\n\\n\u0394G $$=$$ $$92.22$$ - T \u00d7 $$\\left(-\\frac{198.5}{1000}\\right)$$\\n\\nConvert the change in entropy (\u0394S) from $$\\frac{J}{mol\u00b7K}$$ to $$\\frac{kJ}{mol\u00b7K}$$, since \u0394H is given in $$\\frac{kJ}{mol}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -40,7 +40,7 @@
             "a73f488GPT5ForHuman6a-h3"
         ],
         "title": "Solving for the temperature",
-        "text": "Now that you know $$\u0394G=0$$ for spontaneity and have the equations:\\n\\n$$0$$ $$=$$ $$92.22$$ - $$T \\left(-0.1985\\right)$$\\n\\nSolve this equation for T.",
+        "text": "Now that you know $$\u0394G=0$$ for spontaneity and have the equations:\\n\\n$$0$$ $$=$$ $$92.22$$ - T \u00d7 $$(-0.1985)$$\\n\\nSolve this equation for T.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -77,8 +77,8 @@
     {
         "id": "a73f488GPT5ForHuman6a-h7",
         "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
+        "problemType": "MultipleChoice",
+        "answerType": "string",
         "hintAnswer": [
             "Reaction is not spontaneous at any temperature."
         ],

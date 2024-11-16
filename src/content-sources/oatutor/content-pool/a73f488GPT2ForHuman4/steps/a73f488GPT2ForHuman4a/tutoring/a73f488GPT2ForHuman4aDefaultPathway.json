@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Gibbs Free Energy Relation",
-        "text": "The Gibbs free energy change of a reaction (\u2206G\u00b0) is given by the relation: $$\u2206G\\degree=$$ \u2206H\u00b0- T*\u2206S\u00b0.\\n\\n- \u2206H\u00b0 is the change in enthalpy.\\n- T is the temperature in Kelvin.\\n- \u2206S\u00b0 is the change in entropy.",
+        "text": "The Gibbs free energy change of a reaction (\u2206G\u00b0) is given by the relation: $$\u2206G\\degree=$$ \u2206H\u00b0- T \u00d7 \u2206S\u00b0.\\n\\n- \u2206H\u00b0 is the change in enthalpy.\\n- T is the temperature in Kelvin.\\n- \u2206S\u00b0 is the change in entropy.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a73f488GPT2ForHuman4a-h3"
         ],
         "title": "Substitute into Gibbs Free Energy Equation",
-        "text": "Now that you have \u2206H\u00b0 and \u2206G\u00b0, substitute these into the Gibbs free energy equation to solve for \u2206S\u00b0:\\n\\n$$110.5$$ $$=$$ $$131.3$$ - $$298$$ * \u2206S\u00b0",
+        "text": "Now that you have \u2206H\u00b0 and \u2206G\u00b0, substitute these into the Gibbs free energy equation to solve for \u2206S\u00b0:\\n\\n$$110.5$$ $$=$$ $$131.3$$ - $$298$$ \u00d7 \u2206S\u00b0",
         "variabilization": {},
         "oer": "",
         "license": ""

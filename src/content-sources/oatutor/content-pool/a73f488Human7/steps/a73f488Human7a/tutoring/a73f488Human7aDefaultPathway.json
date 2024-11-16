@@ -16,7 +16,7 @@
             "a73f488Human7a-h1"
         ],
         "title": "Calculate Gibbs Free Energy for White Phosphorus",
-        "text": "Use the formula \u0394G\u00b0_{white} $$=$$ \u0394H\u00b0_f_{(white)} - T*S\u00b0_{(white)} to find the Gibbs free energy of white phosphorus.",
+        "text": "Use the formula \u0394G\u00b0_{white} $$=$$ \u0394H\u00b0_f_{(white)} - T \u00d7 S\u00b0_{(white)} to find the Gibbs free energy of white phosphorus.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a73f488Human7a-h2"
         ],
         "title": "Calculation for White Phosphorus",
-        "text": "Calculate using the given values for white phosphorus: \u0394G\u00b0_{white} $$=$$ $$0$$ - $$\\frac{298\\times23.3}{1000}$$ (convert S\u00b0 to $$\\frac{kJ}{mol\u00b7K}$$ by dividing by 1000).",
+        "text": "Calculate using the given values for white phosphorus: \u0394G\u00b0_{white} $$=$$ $$0$$ - (298 \u00d7 23.30/1000) (convert S\u00b0 to $$\\frac{kJ}{mol\u00b7K}$$ by dividing by 1000).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "a73f488Human7a-h3"
         ],
         "title": "Calculate Gibbs Free Energy for Red Phosphorus",
-        "text": "Now, calculate \u0394G\u00b0_{red} $$=$$ \u0394H\u00b0_f_{(red)} - T*S\u00b0_{(red)} to determine the Gibbs free energy of red phosphorus.",
+        "text": "Now, calculate \u0394G\u00b0_{red} $$=$$ \u0394H\u00b0_f_{(red)} - T \u00d7 S\u00b0_{(red)} to determine the Gibbs free energy of red phosphorus.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -62,7 +62,7 @@
             "a73f488Human7a-h4"
         ],
         "title": "Calculation for Red Phosphorus",
-        "text": "Find the Gibbs free energy using the values for red phosphorus: \u0394G\u00b0_{red} $$=$$ $$-17.60$$ - $$\\frac{298\\times22.75}{1000}$$ .",
+        "text": "Find the Gibbs free energy using the values for red phosphorus: \u0394G\u00b0_{red} $$=$$ $$-17.60$$ - (298 \u00d7 22.75/1000) .",
         "variabilization": {},
         "oer": "",
         "license": ""

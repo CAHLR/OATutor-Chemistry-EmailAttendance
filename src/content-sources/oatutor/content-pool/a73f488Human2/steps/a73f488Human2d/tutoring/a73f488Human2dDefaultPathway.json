@@ -16,7 +16,7 @@
             "a73f488Human2d-h1"
         ],
         "title": "Gibbs Free Energy Equation",
-        "text": "Use the Gibbs free energy equation for phase equilibrium: [\u0394G $$=$$ \u0394H - $$T \\Delta S$$ $$=$$ 0] where \u0394H is the enthalpy of fusion and \u0394S is entropy of fusion.",
+        "text": "Use the Gibbs free energy equation for phase equilibrium: [\u0394G $$=$$ \u0394H - T \u00d7 \u0394S $$=$$ 0] where \u0394H is the enthalpy of fusion and \u0394S is entropy of fusion.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "a73f488Human2d-h2"
         ],
         "title": "Calculate Temperature",
-        "text": "Rearrange the equation \u0394G $$=$$ \u0394H - $$T \\Delta S$$ $$=$$ $$0$$ to find the temperature T: [T $$=$$ \u0394H/\u0394S].",
+        "text": "Rearrange the equation \u0394G $$=$$ \u0394H - T \u00d7 \u0394S $$=$$ $$0$$ to find the temperature T: [T $$=$$ \u0394H/\u0394S].",
         "variabilization": {},
         "oer": "",
         "license": ""
