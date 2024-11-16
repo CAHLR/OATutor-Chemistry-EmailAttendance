@@ -8,5 +8,6 @@
     "stepBody": "Give your answer to the nearest whole number in K.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$468$$"
+    "answerLatex": "$$468$$",
+    "tolerance": 2
 }

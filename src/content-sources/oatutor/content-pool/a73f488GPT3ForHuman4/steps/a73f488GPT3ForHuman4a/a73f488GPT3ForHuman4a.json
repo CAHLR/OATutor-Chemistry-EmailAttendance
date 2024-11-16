@@ -8,5 +8,6 @@
     "stepBody": "Give your answer in J mol\u207b\u00b9 K\u207b\u00b9, rounded to $$2$$ decimal places.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$-349.87$$"
+    "answerLatex": "$$-349.87$$",
+    "tolerance": 2
 }

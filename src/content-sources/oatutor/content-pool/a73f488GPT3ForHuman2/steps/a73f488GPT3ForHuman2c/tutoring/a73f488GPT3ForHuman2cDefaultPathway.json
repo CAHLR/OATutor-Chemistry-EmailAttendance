@@ -53,7 +53,8 @@
         "text": "Calculate the product of the temperature T (279K) and the converted entropy S $$(0.0357$$ $$\\frac{kJ}{K\u00b7mol}$$).",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 1
     },
     {
         "id": "a73f488GPT3ForHuman2c-h5",
@@ -70,7 +71,8 @@
         "text": "Use the equation $$G=H-TS$$ with $$H=9.87$$ $$\\frac{kJ}{mol}$$ and $$TS=9.96$$ $$\\frac{kJ}{mol}$$ to find G.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.01
     },
     {
         "id": "a73f488GPT3ForHuman2c-h6",

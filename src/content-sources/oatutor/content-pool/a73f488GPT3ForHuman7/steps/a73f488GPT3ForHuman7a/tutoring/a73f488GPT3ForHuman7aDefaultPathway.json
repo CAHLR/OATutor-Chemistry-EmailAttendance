@@ -36,7 +36,8 @@
         "text": "Calculate \u0394G for yellow sulfur using:\\n\u0394G $$=$$ $$0$$ - $$298$$ \u00d7 $$0.03188$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 1
     },
     {
         "id": "a73f488GPT3ForHuman7a-h4",
@@ -65,7 +66,8 @@
         "text": "Calculate \u0394G for monoclinic sulfur using:\\n\u0394G $$=$$ $$0.30$$ - $$298$$ \u00d7 $$0.03260$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 1
     },
     {
         "id": "a73f488GPT3ForHuman7a-h6",

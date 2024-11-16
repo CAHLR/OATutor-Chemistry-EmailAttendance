@@ -8,5 +8,6 @@
     "stepBody": "Give your answer to $$1$$ decimal place in kJ mol\u207b\u00b9.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$0.2$$"
+    "answerLatex": "$$0.2$$",
+    "tolerance": 0.1
 }

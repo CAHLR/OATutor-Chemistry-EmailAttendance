@@ -51,6 +51,7 @@
         "text": "Now use the values \u0394H $$=$$ $$40790$$ $$\\frac{J}{mol}$$ and \u0394S $$=$$ $$109.2$$ $$\\frac{J}{K\u00b7mol}$$ along with the temperature T $$=$$ $$350$$ K in the equation \u0394G $$=$$ \u0394H - T \u0394S . Calculate \u0394G .",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

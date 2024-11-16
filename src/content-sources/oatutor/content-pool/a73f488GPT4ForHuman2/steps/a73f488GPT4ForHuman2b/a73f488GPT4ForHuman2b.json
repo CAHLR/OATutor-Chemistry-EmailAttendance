@@ -8,5 +8,6 @@
     "stepBody": "Express your answer in J.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$1285$$"
+    "answerLatex": "$$1285$$",
+    "tolerance": 5
 }

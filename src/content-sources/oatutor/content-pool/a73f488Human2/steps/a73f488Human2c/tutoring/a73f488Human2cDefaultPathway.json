@@ -65,7 +65,8 @@
         "text": "Calculate the value of \u0394G from the previous step: $$\u0394G=5650-170$$ \u00d7 $$28.9$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a73f488Human2c-h6",

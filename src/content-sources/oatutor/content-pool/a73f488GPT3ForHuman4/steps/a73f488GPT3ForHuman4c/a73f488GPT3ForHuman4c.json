@@ -8,5 +8,6 @@
     "stepBody": "Provide an answer in Kelvin, rounded to $$1$$ decimal place.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$392$$"
+    "answerLatex": "$$392$$",
+    "tolerance": 2
 }

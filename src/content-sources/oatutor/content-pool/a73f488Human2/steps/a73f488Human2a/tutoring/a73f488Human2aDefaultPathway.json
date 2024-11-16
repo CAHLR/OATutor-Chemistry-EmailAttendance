@@ -53,7 +53,8 @@
         "text": "Now that we know the temperature T and \u0394S, calculate the term T\u0394S . Use the values:\\n- T $$=$$ $$170$$ K\\n- \u0394S $$=$$ $$28.9$$ $$\\frac{J}{K} mol$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a73f488Human2a-h5",

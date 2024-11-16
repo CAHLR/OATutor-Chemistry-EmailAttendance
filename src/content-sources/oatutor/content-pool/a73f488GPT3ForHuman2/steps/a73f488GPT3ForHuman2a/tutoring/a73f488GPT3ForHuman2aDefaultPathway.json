@@ -65,6 +65,7 @@
         "text": "Calculate the value of \u0394G after substituting the values.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

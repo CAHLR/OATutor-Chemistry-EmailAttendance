@@ -36,7 +36,8 @@
         "text": "Convert the enthalpy change(\u0394H) from kilojoules to joules before plugging it into the formula, and then perform the calculations to find \u0394G.\\n\\nCalculate:$$(40.79$$ \u00d7 $$1000)-(350$$ \u00d7 $$109.2)$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     },
     {
         "id": "a73f488GPT4ForHuman2b-h4",

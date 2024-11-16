@@ -96,6 +96,7 @@
         "text": "Perform the calculation for T to verify the temperature limit for spontaneity.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

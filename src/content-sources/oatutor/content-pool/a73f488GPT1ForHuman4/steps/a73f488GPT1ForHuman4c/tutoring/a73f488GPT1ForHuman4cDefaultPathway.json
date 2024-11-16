@@ -96,6 +96,7 @@
         "text": "After finding \u2206S, take the temperature value, convert to Kelvin if needed, and input into the equation:\\nT=$$\\frac{\\Delta H}{\\Delta S}$$,\\nwhich provides the temperature at which the reaction becomes non-spontaneous.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

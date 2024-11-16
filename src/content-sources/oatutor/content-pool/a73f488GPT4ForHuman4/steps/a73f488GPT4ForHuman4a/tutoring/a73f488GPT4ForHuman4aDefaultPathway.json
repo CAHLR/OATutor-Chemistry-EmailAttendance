@@ -48,6 +48,7 @@
         "text": "Substitute the given values into the rearranged equation:\\n\u2206S\u00b0 $$=$$ $$((-393500)$$ - (-394400))/298",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.5
     }
 ]

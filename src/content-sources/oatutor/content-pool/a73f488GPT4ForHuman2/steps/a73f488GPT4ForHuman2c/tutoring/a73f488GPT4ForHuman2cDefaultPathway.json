@@ -46,7 +46,8 @@
         "text": "Let's calculate the Gibbs Free Energy change at $$350$$ K:\\n\u0394H $$=$$ $$\\frac{40.79kJ}{mol}$$\\n\u0394S $$=$$ $$\\frac{0.1092kJ}{K} mol$$.\\nT $$=$$ 350K\\n\\nTherefore, \u0394G $$=$$ $$40.79$$ - $$350$$ \u00d7 $$0.1092$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.2
     },
     {
         "id": "a73f488GPT4ForHuman2c-h5",

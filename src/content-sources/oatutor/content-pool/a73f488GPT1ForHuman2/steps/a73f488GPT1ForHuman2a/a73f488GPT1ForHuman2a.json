@@ -8,5 +8,6 @@
     "stepBody": "Calculate your answer in J to the nearest integer.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$2465$$"
+    "answerLatex": "$$2465$$",
+    "tolerance": 5
 }

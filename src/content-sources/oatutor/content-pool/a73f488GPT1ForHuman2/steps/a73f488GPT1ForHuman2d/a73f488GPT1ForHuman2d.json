@@ -8,5 +8,6 @@
     "stepBody": "Calculate your answer to the nearest integer in K.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$373$$"
+    "answerLatex": "$$373$$",
+    "tolerance": 2
 }

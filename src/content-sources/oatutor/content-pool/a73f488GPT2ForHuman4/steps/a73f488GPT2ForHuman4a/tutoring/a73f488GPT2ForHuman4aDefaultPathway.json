@@ -36,7 +36,8 @@
         "text": "Use the enthalpy of formation values to determine \u2206H\u00b0 for the reaction:\\n\\n\u2206H\u00b0 $$=$$ \u2206$$H_f$$\u00b0 (CO(g)) + \u2206$$H_f$$\u00b0 $$\\operatorname{H_2}\\left(g\\right)$$ - [\u2206$$H_f$$\u00b0 (C(s)) + \u2206$$H_f$$\u00b0 ($$H_2$$O(g))]",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a73f488GPT2ForHuman4a-h4",
@@ -65,6 +66,7 @@
         "text": "Rearrange the equation and solve for \u2206S\u00b0 in $$\\frac{J}{mol}$$ *K:\\n\\n\u2206S\u00b0 $$=$$ $$\\frac{\\Delta H^\\degree - \\Delta G^\\degree}{T}$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

@@ -48,7 +48,8 @@
         "text": "Substitute the values into the Gibbs energy formula:\u0394G $$=$$ $$40670$$ - $$350$$ \u00d7 $$109.3$$ .",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a73f488GPT2ForHuman2b-h5",
@@ -77,6 +78,7 @@
         "text": "Using the result for $$1$$ mol: $$2415$$ \u00d7 $$2.50$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

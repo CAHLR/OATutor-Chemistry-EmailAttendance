@@ -53,6 +53,7 @@
         "text": "Using the equation \u0394G $$=$$ \u0394H - T \u00d7 \u0394S, substitute values:\\n\\n\u0394G $$=$$ $$40790$$ $$\\frac{J}{mol}$$ - $$350$$ K \u00d7 $$109.5$$ $$\\frac{J}{mol}$$ \u00d7 K $$=$$ ?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]

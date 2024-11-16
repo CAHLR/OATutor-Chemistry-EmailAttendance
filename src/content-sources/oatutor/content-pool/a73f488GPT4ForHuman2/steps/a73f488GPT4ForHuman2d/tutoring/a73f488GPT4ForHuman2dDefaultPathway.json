@@ -60,6 +60,7 @@
         "text": "Convert kJ to J: \u0394H becomes 40,790 $$\\frac{J}{mol}$$. Calculate $$T=40, 790$$ $$\\frac{J}{mol}$$ \u00f7 $$109.2$$ $$\\frac{J}{K}$$ mol.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

@@ -48,6 +48,7 @@
         "text": "Evaluate the expression to obtain \u0394G:\\n\\n\u0394G $$=$$ $$40670$$ - $$350$$ \u00d7 $$109.3$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

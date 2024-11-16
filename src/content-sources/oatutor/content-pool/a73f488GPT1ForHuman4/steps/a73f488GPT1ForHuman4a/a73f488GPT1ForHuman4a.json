@@ -8,5 +8,6 @@
     "stepBody": "Give your answer to $$1$$ decimal place in J mol\u207b\u00b9K\u207b\u00b9.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$-196.3$$"
+    "answerLatex": "$$-196.3$$",
+    "tolerance": 2
 }

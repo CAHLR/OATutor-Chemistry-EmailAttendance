@@ -12,7 +12,8 @@
         "text": "Using the standard heats of formation for the reactants and products, calculate the standard enthalpy change, \u0394H\u00b0 , for the reaction. \u0394H\u00b0 $$=$$ \u2211products \u0394$$H_f$$\u00b0 - \u2211reactants \u0394$$H_f$$\u00b0 . Hint: Use the provided values.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a73f488GPT3ForHuman4a-h2",
@@ -58,6 +59,7 @@
         "text": "Re-arrange the equation \u0394G\u00b0 $$=$$ \u0394H\u00b0 - T\u0394S\u00b0 and solve for \u0394S\u00b0 . Substitute \u0394G\u00b0 $$=$$ $$-32890$$ $$\\frac{J}{mol}$$, \u0394H\u00b0 $$=$$ $$-137150$$ $$\\frac{J}{mol}$$, and T $$=$$ $$298$$ K into the equation: \u0394S\u00b0 $$=$$ (\u0394H\u00b0 - \u0394G\u00b0)/T.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

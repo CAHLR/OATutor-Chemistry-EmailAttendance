@@ -65,7 +65,8 @@
         "text": "Subtract the result from \u0394H:\\n\\n$$9870$$ - $$9950.3$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     },
     {
         "id": "a73f488GPT3ForHuman2b-h6",
@@ -106,6 +107,7 @@
         "text": "Perform the final calculation to find the \u0394G for $$2.50$$ moles of benzene.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

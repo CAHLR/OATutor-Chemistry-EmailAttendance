@@ -8,5 +8,6 @@
     "stepBody": "Give your answer to the nearest Kelvin.",
     "answerType": "arithmetic",
     "variabilization": {},
-    "answerLatex": "$$1881$$"
+    "answerLatex": "$$1881$$",
+    "tolerance": 10
 }

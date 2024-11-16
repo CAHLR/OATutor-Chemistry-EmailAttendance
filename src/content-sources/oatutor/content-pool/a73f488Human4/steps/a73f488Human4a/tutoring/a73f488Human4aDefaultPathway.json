@@ -48,6 +48,7 @@
         "text": "Now, using the information:\\n- \u2206G\u00b0 $$=$$ $$1138.9$$\\n- \u2206H\u00b0=2 \u00d7 $$601.70$$\\n- $$T=298$$ K\\n\\nCalculate \u2206S\u00b0.\\n\\n\u2206S\u00b0 $$=$$ $$\\frac{\\Delta H^\\degree - \\Delta G^\\degree}{T}$$",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.1
     }
 ]

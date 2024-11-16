@@ -60,6 +60,7 @@
         "text": "Use the given values: \u0394H $$=$$ $$5.65$$ $$\\frac{kJ}{mol}$$ $$=$$ $$5650$$ $$\\frac{J}{mol}$$ and \u0394S $$=$$ $$28.9$$ $$\\frac{J}{K\u00b7mol}$$ . Calculate the temperature T.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 2
     }
 ]

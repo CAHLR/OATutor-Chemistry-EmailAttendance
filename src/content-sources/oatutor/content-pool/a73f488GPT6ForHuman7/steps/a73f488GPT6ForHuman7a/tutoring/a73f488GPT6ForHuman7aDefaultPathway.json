@@ -36,7 +36,8 @@
         "text": "Calculate the Gibbs free energy for gray selenium using \u0394$$G_{gray}$$ $$=$$ $$0$$ - 298K \u00d7 $$31.88$$ $$\\frac{J}{mol\u00b7K}$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 20
     },
     {
         "id": "a73f488GPT6ForHuman7a-h4",
@@ -53,7 +54,8 @@
         "text": "Calculate the Gibbs free energy for red selenium using \u0394$$G_{red}$$ $$=$$ $$0.20$$ $$\\frac{kJ}{mol}$$ - 298K \u00d7 $$25.80$$ $$\\frac{J}{mol\u00b7K}$$.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 20
     },
     {
         "id": "a73f488GPT6ForHuman7a-h5",

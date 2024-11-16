@@ -53,6 +53,7 @@
         "text": "Calculate the total Gibbs free energy change for $$2.50$$ mol of water at $$350$$ K.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 5
     }
 ]
