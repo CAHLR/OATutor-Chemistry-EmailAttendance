@@ -16,7 +16,7 @@
             "a73f488GPT3ForHuman2b-h1"
         ],
         "title": "Identify Known Values",
-        "text": "You're given:\\n- \u0394H $$=$$ $$9.87$$ $$\\frac{kJ}{mol}$$\\n- \u0394S $$=$$ $$35.7$$ J/K\u2219mol\\n- T $$=$$ $$279$$ K\\n- $$n$$ $$=$$ $$2.50$$ mol\\n\\nConvert \u0394H and \u0394S to $$\\frac{J}{mol}$$ if necessary.",
+        "text": "You're given:\\n- \u0394H $$=$$ $$9.87$$ $$\\frac{kJ}{mol}$$\\n- \u0394S $$=$$ $$35.7$$ $$\\frac{J}{K\u00b7mol}$$\\n- T $$=$$ $$279$$ K\\n- $$n$$ $$=$$ $$2.50$$ mol\\n\\nConvert \u0394H and \u0394S to $$\\frac{J}{mol}$$ if necessary.",
         "variabilization": {},
         "oer": "",
         "license": ""
