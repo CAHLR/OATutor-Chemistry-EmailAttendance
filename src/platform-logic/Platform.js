@@ -582,11 +582,6 @@ class Platform extends React.Component {
                 ) : (
                     ""
                 )}
-                {this.state.status === "graduated" ? (
-                    updateCanvas(1.0, {})
-                ) : (
-                    ""
-                )}
             </div>
         );
     }
