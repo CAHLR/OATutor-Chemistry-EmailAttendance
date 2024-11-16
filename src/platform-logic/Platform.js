@@ -382,7 +382,7 @@ class Platform extends React.Component {
             return x + context.bktParams[y].probMastery;
         }, 0);
         score /= objectives.length;
-        //this.displayMastery(score);
+        this.displayMastery(score);
         //console.log(Object.keys(context.bktParams).map((skill) => (context.bktParams[skill].probMastery <= this.lesson.learningObjectives[skill])));
 
         // There exists a skill that has not yet been mastered (a True)
@@ -472,8 +472,6 @@ class Platform extends React.Component {
 
     displayMastery = (mastery) => {
         this.setState({ mastery: mastery });
-        if (mastery >= MASTERY_THRESHOLD) {
-        }
     };
 
     render() {
