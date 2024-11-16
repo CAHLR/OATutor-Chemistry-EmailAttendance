@@ -4,7 +4,6 @@ import Grid from "@material-ui/core/Grid";
 import Problem from "@components/problem-layout/Problem.js";
 import LessonSelection from "@components/problem-layout/LessonSelection.js";
 import { withRouter } from "react-router-dom";
-import { updateCanvas } from "../components/problem-layout/Problem"
 
 import {
     coursePlans,
