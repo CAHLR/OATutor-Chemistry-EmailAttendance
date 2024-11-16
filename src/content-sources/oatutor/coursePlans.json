@@ -8,7 +8,7 @@
                 "id": "3K8jEVlc-nVnP-UweylJIDNK",
                 "name": "Lesson Thermo2",
                 "topics": "",
-                "allowRecycle": true,
+                "allowRecycle": false,
                 "showStuMastery": false,
                 "learningObjectives": {
                     "problem1": 0.85,

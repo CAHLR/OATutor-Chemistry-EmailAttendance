@@ -502,16 +502,6 @@ app.post(
 
     const text = `
         <h1> Component Breakdown </h1>
-        <h4> Overall score: ${Math.round(score * 10000) / 100}%</h4>
-        ${Object.keys(components)
-          .map(
-            (key, i) =>
-              `<p>${i + 1}) ${key.replace(/_/g, " ")}: 
-        ${"&#9646;".repeat(+components[key] * 10)}
-        ${"&#9647;".repeat(10 - +components[key] * 10)}
-        </p>`
-          )
-          .join("")}
         <h4 style="padding-top: 10px"> Problem Stats </h4>
         ${formattedText}
     `;
